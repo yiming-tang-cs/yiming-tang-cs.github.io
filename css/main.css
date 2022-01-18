@@ -26,12 +26,10 @@ h0 {
 }
 
 .title{
-    position: fixed;
-    width: 100%;
-    left: 0;
-    top: 0;
     background: rgb(255,240,245);
-    z-index: 10;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 h1 {
