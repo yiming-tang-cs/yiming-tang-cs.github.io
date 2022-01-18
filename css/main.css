@@ -26,12 +26,18 @@ h0 {
 }
 
 .title{
+    
     background: rgb(255,240,245);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
     
+    width: 100vw;
     position: relative; 
+}
+
+.name{
+    margin: 0 auto;
 }
 
 h1 {
