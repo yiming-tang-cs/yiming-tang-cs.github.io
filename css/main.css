@@ -40,7 +40,7 @@ a:hover {
 
 h0 {
     font-size: 3em;
-    font-family:"Lucida Console", "Courier New", monospace;
+    font-family:"Comic Sans MS", "Hannotate SC", cursive, sans-serif;
 }
 
 .title{
@@ -62,14 +62,11 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-h2 {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-
 p {
     font-size: 1.3em;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -82,4 +79,8 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+#publications, #services, #contact {
+    border-top: 1px solid #d5d5d5;
 }
