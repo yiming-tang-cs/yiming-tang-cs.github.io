@@ -81,10 +81,10 @@ ul.posts li {
     list-style: none;
 }
 
-#publications, #services, #contact, #education, #awards {
+#publications, #services, #contact, #education, #awards, #work {
     border-top: 1px solid #d5d5d5;
 }
 
-#about, #publications, #services, #contact, #education, #awards {
+#about, #publications, #services, #contact, #education, #awards, #work {
 	margin-bottom: 15px;
 }
