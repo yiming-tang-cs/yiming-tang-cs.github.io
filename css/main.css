@@ -32,8 +32,12 @@ h0 {
     background-repeat: no-repeat;
     background-position: center center;
     
-    width: 100vw;
-    position: relative; 
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 .name{
