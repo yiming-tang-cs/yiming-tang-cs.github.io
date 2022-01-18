@@ -5,37 +5,45 @@
         <!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
+
 	<body>
-		<header1>
+
 		<div class="title">
 			<div class="name">
 				<h0>Yiming Tang (汤一鸣)</h0>
 				<p>Postdoctoral fellow at Concordia University</p>
 			</div>
 		</div>
-		</header1>
 		
-		<header2>
-		<nav>
-		</header2>
-		
-		<conc>
-    		<ul>
-        		<li><a href="#about">About</a></li>
-	        	<li><a href="#publications">Publications</a></li>
-        		<li><a href="#services">Services</a></li>
-        		<li><a href="#contact">Contact</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-
-            {{ content }}
-
-		</div>
-		<footer>
-    		<p> Copyright © Yiming Tang</p>
-		</footer>
+        
+        
+		<div class="navbar">
+        		<div class="nav">
+        
+			<nav>
+    			<ul>
+        			<li><a href="#about">About</a></li>
+	        		<li><a href="#publications">Publications</a></li>
+        			<li><a href="#services">Services</a></li>
+        			<li><a href="#contact">Contact</a></li>
+    			</ul>
+			</nav>
+        
+        		</div>
+        	</div>
+        
+        
+        
+        	<div class="cont">
+        
+			<div class="container">
+            		{{ content }}
+			</div>
 			
-		</conc>
+			<footer>
+    			<p> Copyright © Yiming Tang</p>
+			</footer>
+			
+		</div>
 	</body>
 </html>
