@@ -84,3 +84,7 @@ ul.posts li {
 #publications, #services, #contact {
     border-top: 1px solid #d5d5d5;
 }
+
+#about, #publications, #services, #contact {
+	margin-bottom: 15px;
+}
