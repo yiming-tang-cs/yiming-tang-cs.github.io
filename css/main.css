@@ -1,10 +1,28 @@
-body {
-    margin: 60px auto;
+body{
+	margin: auto;
+	margin-top: 0 !important;
+}
+
+.cont {
+    margin: auto;
     width: 70%;
 }
+
+.navbar{
+	margin-top: -1em;
+	width: 100vw;
+    background: rgb(0,206,209);
+}
+
+.nav{
+    margin: auto;
+    width: 70%;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 5px;
+    margin-left: -0.5px;
     list-style: none;
     font-weight: bold;
 }
@@ -22,26 +40,21 @@ a:hover {
 
 h0 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:"Lucida Console", "Courier New", monospace;
 }
 
 .title{
-    
-    background: rgb(255,240,245);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
+    width: 100vw;
+    background: rgb(175,238,238);
+    padding-top:3em;
+    padding-left: 0.5em;
+    padding-bottom: 0.1em;
+    margin-left:-0.5em;
 }
 
 .name{
-    margin: 0 auto;
+    width: 70%;
+    margin: auto;
 }
 
 h1 {
@@ -54,8 +67,7 @@ h2 {
 }
 
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.3em;
     color: #333;
 }
 footer {
@@ -64,7 +76,7 @@ footer {
 }
 
 ul.posts { 
-    margin: 20px auto 40px; 
+    margin: auto; 
     font-size: 1.5em;
 }
 
