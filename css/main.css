@@ -34,13 +34,23 @@ a {
     text-decoration: none;
     color: #008080;
 }
+
+a.navlink{
+    color: #FFFFFF;
+}
+
 a:hover {
     text-decoration: underline;
 }
 
 h0 {
     font-size: 3em;
-    font-family:"Comic Sans MS", "Hannotate SC", cursive, sans-serif;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+ch0 {
+    font-size: 3em;
+    font-family: 'MS Serif', 'Hannotate SC', 'New York', sans-serif;
 }
 
 .title{
