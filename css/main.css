@@ -103,3 +103,9 @@ ul.posts li {
 #about, #publications, #services, #contact, #education, #awards, #work {
 	margin-bottom: 15px;
 }
+
+ns{
+    text-shadow: 0.1em 0.1em 0.2em #FFD700;
+    color: #FF8C00;
+    font-style: italic;
+}
