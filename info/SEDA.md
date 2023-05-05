@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEA Lab
+title: SEDA Lab
 nav_order: 6
 ---
 
