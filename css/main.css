@@ -1,0 +1,114 @@
+body{
+	margin: auto;
+	margin-top: 0 !important;
+}
+
+.cont {
+    margin: auto;
+    width: 70%;
+}
+
+.navbar{
+    margin-top: -1em;
+    width: 100vw;
+    background: rgb(0,206,209);
+}
+
+.nav{
+    margin: auto;
+    width: 70%;
+}
+
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 5px;
+    margin-left: -0.5px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+}
+
+a.PDF {
+    color: #00CED1;
+}
+
+a.navlink{
+    color: #FFFFFF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h0 {
+    font-size: 3em;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+ch0 {
+    font-size: 3em;
+    font-family: 'MS Serif', 'Hannotate SC', 'New York', sans-serif;
+}
+
+.title{
+    width: 100vw;
+    background: rgb(175,238,238);
+    padding-top:3em;
+    padding-left: 0.5em;
+    padding-bottom: 0.1em;
+    margin-left:-0.5em;
+}
+
+.name{
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 1.5em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #00CED1;
+}
+
+p {
+    font-size: 1.1em;
+    color: #696969;
+}
+
+gw{
+	color: #999;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: auto; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+#publications, #services, #contact, #education, #awards, #work {
+    border-top: 1px solid #d5d5d5;
+}
+
+#about, #publications, #services, #contact, #education, #awards, #work {
+	margin-bottom: 15px;
+}
+
+ns{
+    text-shadow: 0.1em 0.1em 0.2em #FFD700;
+    color: #FF8C00;
+    font-style: italic;
+}

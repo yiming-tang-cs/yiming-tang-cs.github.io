@@ -1,169 +1,169 @@
 {"0": {
-    "doc": "SEDA Lab",
-    "title": "Software Engineering and Data Analytics (SEDA)",
+    "doc": "SEA Lab",
+    "title": "Software Engineering and Data Analytics (SEA)",
     "content": ". The website is still under development. Stay tuned! . ",
-    "url": "/info/SEDA/#software-engineering-and-data-analytics-seda",
+    "url": "/yiming-tang-cs/info/SEA/#software-engineering-and-data-analytics-sea",
     
-    "relUrl": "/info/SEDA/#software-engineering-and-data-analytics-seda"
+    "relUrl": "/info/SEA/#software-engineering-and-data-analytics-sea"
   },"1": {
-    "doc": "SEDA Lab",
-    "title": "SEDA Lab",
+    "doc": "SEA Lab",
+    "title": "SEA Lab",
     "content": " ",
-    "url": "/info/SEDA/",
+    "url": "/yiming-tang-cs/info/SEA/",
     
-    "relUrl": "/info/SEDA/"
+    "relUrl": "/info/SEA/"
   },"2": {
     "doc": "Awards/Grants",
     "title": "Awards/Grants",
     "content": ". ",
-    "url": "/info/award/",
+    "url": "/yiming-tang-cs/info/award/",
     
     "relUrl": "/info/award/"
   },"3": {
     "doc": "Awards/Grants",
     "title": "Awards",
     "content": "| EAPLS Best Paper Award | FASE 2020 | 2020 | . | Distinguished Engineering Paper Award | SCAM 2018 | 2018 | . ",
-    "url": "/info/award/#awards",
+    "url": "/yiming-tang-cs/info/award/#awards",
     
     "relUrl": "/info/award/#awards"
   },"4": {
     "doc": "Awards/Grants",
     "title": "Grants",
     "content": "| ACM SIGSOFT CAPS Grants | 2023 | SIGSOFT CAPS program | $1,000.00 | . | Google Cloud Research Credits Program | 2022 | Google Cloud Education Programs | CA$6,338.76 | . | ACM SIGSOFT CAPS Grants | 2019 | SIGSOFT CAPS program | $700.00 | . | National Scholarship | 2012 | Ministry of Education of the People’s Republic of China | ¥8,000 | . ",
-    "url": "/info/award/#grants",
+    "url": "/yiming-tang-cs/info/award/#grants",
     
     "relUrl": "/info/award/#grants"
   },"5": {
     "doc": "Awards/Grants",
     "title": "Fellowships",
     "content": "| Horizon Postdoctoral Fellowship | 2021 - 2023 | Concordia University | . | Science Fellowships | 2017 - 2021 | CUNY Graduate Center | . ",
-    "url": "/info/award/#fellowships",
+    "url": "/yiming-tang-cs/info/award/#fellowships",
     
     "relUrl": "/info/award/#fellowships"
   },"6": {
     "doc": "Education",
     "title": "Education",
     "content": ". | Aug. 2017 - May 2021: Ph.D. in Computer Science City University of New York - Graduate Center, USA Supervised by Prof. Raffi Khatchadourian | . | Sep. 2015 - Sep. 2016: M.Sc. in Computer Science The University of Manchester, UK | . | Sep. 2014 - Jun. 2015: Study Abroad University of Leicester, UK | . | Aug. 2011 - Jul. 2015: B.Eng. in Software Engineering Xidian University, China | . ",
-    "url": "/info/education/",
+    "url": "/yiming-tang-cs/info/education/",
     
     "relUrl": "/info/education/"
   },"7": {
     "doc": "Home",
     "title": "Yiming Tang (汤一鸣)",
-    "content": "Incoming Assistant Professor at Rochester Institute of Technology Postdoctoral Fellow at Concordia University . Email Twitter . I am an incoming Assistant Professor in the Department of Software Engineering at Rochester Institute of Technology, USA, and currently a Horizon Postdoctoral Fellow in the Department of Computer Science and Software Engineering at Concordia University, Canada. I received my Ph.D. in Computer Science from City University of New York - Graduate Center, USA. I was the instructor of Hunter College Cyber Security Summer Camp, which was only open to non-CS female undergraduates who were interested in CS. My research areas include software quality, empirical software engineering, and software logging. My research has been published in flagship software engineering research venues such as ICSE, TSE, and EMSE. My work has won the best (distinguished) paper awards at two international software engineering conferences. I am looking for self-motivated Ph.D., Master’s and undergraduate students. Please contact me if you are interested in software engineering research. ",
-    "url": "/#yiming-tang-%E6%B1%A4%E4%B8%80%E9%B8%A3",
+    "content": ". Incoming Assistant Professor at Rochester Institute of Technology Postdoctoral Fellow at Concordia University . Email Twitter . I am an incoming assistant professor in the Department of Software Engineering at Rochester Institute of Technology, USA, and currently a Horizon Postdoctoral Fellow in the Department of Computer Science and Software Engineering at Concordia University, Canada. I received my Ph.D. in Computer Science from City University of New York - Graduate Center, USA. I was the instructor of Hunter College Cyber Security Summer Camp, which was only open to non-CS female undergraduates who were interested in CS. My research areas include software quality, empirical software engineering, and software logging. My research has been published in flagship software engineering research venues such as ICSE, TSE, and EMSE. My work has won the best (distinguished) paper awards at two international software engineering conferences. I am looking for self-motivated Ph.D., Master’s and undergraduate students. Please contact me if you are interested in software engineering research. ",
+    "url": "/yiming-tang-cs/#yiming-tang-%E6%B1%A4%E4%B8%80%E9%B8%A3",
     
     "relUrl": "/#yiming-tang-汤一鸣"
   },"8": {
     "doc": "Home",
     "title": "News",
     "content": "📣 [05/2023] I will serve as a PC on the Research Track of SCAM 2023. 📣 [04/2023] I have received ACM SIGSOFT CAPS Grants for ICSE 2023. 📣 [04/2023] I will join Software Engineering department of Rochester Institute of Technology as Assistant Professor this summer! 📣 [03/2023] I will serve as a PC on the Emerging Results, Vision and Reflection Papers Track of ESEM 2023. ",
-    "url": "/#news",
+    "url": "/yiming-tang-cs/#news",
     
     "relUrl": "/#news"
   },"9": {
     "doc": "Home",
     "title": "Contact",
     "content": ". | Email: yiming.tang@concordia.ca | Github: yiming-tang-cs | Google Scholar: Yiming Tang | Twitter: YimingTang7 | . ",
-    "url": "/#contact",
+    "url": "/yiming-tang-cs/#contact",
     
     "relUrl": "/#contact"
   },"10": {
     "doc": "Home",
     "title": "Home",
-    "content": ". ",
-    "url": "/",
+    "content": " ",
+    "url": "/yiming-tang-cs/",
     
     "relUrl": "/"
   },"11": {
     "doc": "Publications",
     "title": "Publications",
     "content": ". | Jianchen Zhao, Yiming Tang, Sneha Sunil, Weiyi Shang. Studying and complementing the use of identifiers in logs. In International Conference on Software Analysis, Evolution and Reengineering, SANER ’23. PDF | . | Zishuo Ding, Yiming Tang, Yang Li, Heng Li, Weiyi Shang. On the temporal relations between logging and code. In International Conference on Software Engineering, ICSE ’23. To appear. PDF | . | Hetong Dai, Yiming Tang, Heng Li, Weiyi Shang. PILAR: Studying and mitigating the influence of configurations on log parsing. In International Conference on Software Engineering, ICSE ’23. To appear. PDF | . | Mostafa Jangali, Yiming Tang, Niclas Alexandersson, Philipp Leitner, Jinqiu Yang and Weiyi Shang. Automated generation and evaluation of JMH microbenchmark suites from unit tests. IEEE Transactions on Software Engineering. To be presented at International Conference on Software Engineering (ICSE ’23) journal-first track. PDF | . | Haonan Zhang, Yiming Tang, Maxime Lamothe, Heng Li, and Weiyi Shang. Studying logging practice in test code. Empirical Software Engineering. Presented at the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE ’22) journal-first track. PDF | . | Yiming Tang, Allan Spektor, Raffi Khatchadourian, and Mehdi Bagherzadeh. A Tool for Rejuvenating Feature Logging Levels via Git Histories and Degree of Interest. In International Conference on Software Engineering, ICSE ’22. Demonstrations Track. PDF | . | Yiming Tang, Allan Spektor, Raffi Khatchadourian, and Mehdi Bagherzadeh. Automated evolution of feature logging statement levels using Git histories and degree of interest. Science of Computer Programming. Presented at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER ’22) journal-first track. PDF | . | Yiming Tang, Raffi Khatchadourian, Mehdi Bagherzadeh, Rhia Singh, Ajani Stewart, and Anita Raja. An empirical study of refactorings and technical debt in Machine Learning systems. In International Conference on Software Engineering, ICSE ’21. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Baishakhi Ray. An empirical study on the use and misuse of Java 8 streams. In Fundamental Approaches to Software Engineering, FASE ’20. 🏆 EAPLS Best Paper Award.PDF | . | Raffi Khatchadourian, Yiming Tang, and Mehdi Bagherzadeh. Safe automated refactoring for intelligent parallelization of Java 8 streams. Science of Computer Programming. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Syed Ahmed. Safe automated refactoring for intelligent parallelization of Java 8 streams. In International Conference on Software Engineering, ICSE ’19. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Syed Ahmed. A tool for optimizing Java 8 stream software via automated refactoring. In International Working Conference on Source Code Analysis and Manipulation, IEEE SCAM ’18. Engineering Track. 🏆 Distinguished Paper Award. PDF | . | Yiming Tang, Raffi Khatchadourian, Mehdi Bagherzadeh, and Syed Ahmed. Towards safe refactoring for intelligent parallelization of Java 8 streams. In International Conference on Software Engineering, ICSE ’18. Poster Track. PDF | . ",
-    "url": "/info/publications/",
+    "url": "/yiming-tang-cs/info/publications/",
     
     "relUrl": "/info/publications/"
   },"12": {
     "doc": "Services",
     "title": "Services",
     "content": ". ",
-    "url": "/info/services/",
+    "url": "/yiming-tang-cs/info/services/",
     
     "relUrl": "/info/services/"
   },"13": {
     "doc": "Services",
     "title": "Program Committee Member",
     "content": "| The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, 2023 | . | The International Conference on Mining Software Repositories (MSR), Technical Track, 2023 | . | The International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results, Vision and Reflection Papers Track, 2023 | . | IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), Research Track, 2023 | . | The International Workshop on Load Testing and Benchmarking of Software Systems (LTB), 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), RENE Track, 2023 | . | IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft), Technical Papers Track, 2022, 2023 | . | ACM/SPEC International Conference on Performance Engineering (ICPE), Data Challenge Track, 2022 | . | The International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2021, 2022 | . | The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Artifact Evaluation Track, 2022 | . ",
-    "url": "/info/services/#program-committee-member",
+    "url": "/yiming-tang-cs/info/services/#program-committee-member",
     
     "relUrl": "/info/services/#program-committee-member"
   },"14": {
     "doc": "Services",
     "title": "Journal Reviewer",
     "content": "| IEEE Transactions on Software Engineering (TSE), 2021, 2023 | . | Empirical Software Engineering (EMSE), 2021, 2022, 2023 | . | Journal of System and Software (JSS), 2022, 2023 | . | Information and Software Technology (IST) 2022, 2023 | . | Journal of Parallel and Distributed Computing (JPDC), 2023 | . ",
-    "url": "/info/services/#journal-reviewer",
+    "url": "/yiming-tang-cs/info/services/#journal-reviewer",
     
     "relUrl": "/info/services/#journal-reviewer"
   },"15": {
     "doc": "Services",
     "title": "Session Chair",
     "content": "| IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Empirical Study, 2023 | . | ACM/SPEC International Conference on Performance Engineering (ICPE), Hardware Performance, 2022 | . ",
-    "url": "/info/services/#session-chair",
+    "url": "/yiming-tang-cs/info/services/#session-chair",
     
     "relUrl": "/info/services/#session-chair"
   },"16": {
     "doc": "Services",
     "title": "External Reviewer/Subreviewer",
     "content": "| The Mining Software Repositories Conference (MSR), Technical Papers Track, 2022 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering(ESEC/FSE), Demonstrations Track, 2018 | . ",
-    "url": "/info/services/#external-reviewersubreviewer",
+    "url": "/yiming-tang-cs/info/services/#external-reviewersubreviewer",
     
     "relUrl": "/info/services/#external-reviewersubreviewer"
   },"17": {
     "doc": "Services",
     "title": "Judge",
     "content": "| The ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH), Student Research Competition Track, 2021 | . ",
-    "url": "/info/services/#judge",
+    "url": "/yiming-tang-cs/info/services/#judge",
     
     "relUrl": "/info/services/#judge"
   },"18": {
     "doc": "Services",
     "title": "Student Volunteer",
     "content": "| ACM/IEEE International Conference on Software Engineering (ICSE), 2019 | . | PostgresConf US (PostgresConf), 2018 | . ",
-    "url": "/info/services/#student-volunteer",
+    "url": "/yiming-tang-cs/info/services/#student-volunteer",
     
     "relUrl": "/info/services/#student-volunteer"
   },"19": {
     "doc": "Teaching",
     "title": "Teaching",
     "content": ". ",
-    "url": "/info/teaching/",
+    "url": "/yiming-tang-cs/info/teaching/",
     
     "relUrl": "/info/teaching/"
   },"20": {
     "doc": "Teaching",
     "title": "Teaching at CUNY Hunter College",
     "content": "| Discrete Structures Recitation×3 | Fall 2019 | . ",
-    "url": "/info/teaching/#teaching-at-cuny-hunter-college",
+    "url": "/yiming-tang-cs/info/teaching/#teaching-at-cuny-hunter-college",
     
     "relUrl": "/info/teaching/#teaching-at-cuny-hunter-college"
   },"21": {
     "doc": "Teaching",
     "title": "Teaching at Hunter College Cyber Security Summer Camp",
     "content": "| Introduction to Python (only open to female undergraduate students) | Summer 2018 | . ",
-    "url": "/info/teaching/#teaching-at-hunter-college-cyber-security-summer-camp",
+    "url": "/yiming-tang-cs/info/teaching/#teaching-at-hunter-college-cyber-security-summer-camp",
     
     "relUrl": "/info/teaching/#teaching-at-hunter-college-cyber-security-summer-camp"
   },"22": {
     "doc": "Teaching",
     "title": "Grader or Teaching Assistant at CUNY Hunter College",
     "content": "| Software Design and Analysis III | Spring 2021 | . | Software Engineering | Spring 2021 | . | Computer Theory I | Fall 2020 | . | Fundamentals of Reactive Programming Seminar | Fall 2020 | . | Software Engineering/Contemporary Application Development | Spring 2020 | . | Advanced Programming Languages | Spring 2019 | . ",
-    "url": "/info/teaching/#grader-or-teaching-assistant-at-cuny-hunter-college",
+    "url": "/yiming-tang-cs/info/teaching/#grader-or-teaching-assistant-at-cuny-hunter-college",
     
     "relUrl": "/info/teaching/#grader-or-teaching-assistant-at-cuny-hunter-college"
   },"23": {
     "doc": "Work Experience",
     "title": "Work Experience",
     "content": ". | May 2021 - present:Postdoctoral Research Fellow Concordia University, Canada Supervised by Prof. Weiyi Shang | . | Jan. 2019 - May 2021:Adjunct Lecturer City University of New York - Hunter College, USA | . | Aug. 2017 - May 2021:Research Assistant City University of New York - Graduate Center, USA | . | Aug. 2018:Instructor of Hunter College Cyber Security Summer Camp City University of New York - Hunter College, USA | . ",
-    "url": "/info/work_experience/",
+    "url": "/yiming-tang-cs/info/work_experience/",
     
     "relUrl": "/info/work_experience/"
   }
