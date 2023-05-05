@@ -32,7 +32,7 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 📣 [05/2023] I will serve as a PC on the Research Track of [SCAM 2023](http://www.ieee-scam.org/2023/#cfpresearchtrack). <br/><br/>
 📣 [04/2023] I have received [ACM SIGSOFT CAPS Grants](https://www.sigsoft.org/resources/caps.html) for [ICSE 2023](https://conf.researchr.org/home/icse-2023). <br/><br/>
-📣 [04/2023] I will join Software Engineering department of [Rochester Institute of Technology](https://www.rit.edu/) as Assistant Professor this summer! <br/><br/>
+📣 [04/2023] I will join Software Engineering department of [Rochester Institute of Technology](https://www.rit.edu/) as an Assistant Professor this summer! <br/><br/>
 📣 [03/2023] I will serve as a PC on the Emerging Results, Vision and Reflection Papers Track of [ESEM 2023](https://conf.researchr.org/track/esem-2023/esem-2023-emerging-results-vision-and-reflection-papers). 
 {: .fs-3 .ls-10 .code-example }
 
