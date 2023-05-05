@@ -9,6 +9,7 @@ nav_order: 2
 
 ----
 
+|Jinfu Chen, Zishuo Ding, **Yiming Tang**, Mohammed Sayagh, Heng Li, Bram Adams and Weiyi Shang. IoPV: On Inconsistent Option Performance Variations. In *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, ESEC/FSE ’23. To appear.|
 |Jianchen Zhao, **Yiming Tang**, Sneha Sunil, Weiyi Shang. Studying and complementing the use of identifiers in logs. In *International Conference on Software Analysis, Evolution and Reengineering*, SANER ’23. [PDF](https://users.encs.concordia.ca/~shang/pubs/SANER2023_Jianchen.pdf)| 
 |Zishuo Ding, **Yiming Tang**, Yang Li, Heng Li, Weiyi Shang. On the temporal relations between logging and code. In *International Conference on Software Engineering*, ICSE ’23. To appear. [PDF](https://users.encs.concordia.ca/~shang/pubs/ICSE2023_ZISHUO.pdf)| 
 |Hetong Dai, **Yiming Tang**, Heng Li, Weiyi Shang. PILAR: Studying and mitigating the influence of configurations on log parsing. In *International Conference on Software Engineering*, ICSE ’23. To appear. [PDF](https://users.encs.concordia.ca/~shang/pubs/ICSE2023_HETONG.pdf) | 
