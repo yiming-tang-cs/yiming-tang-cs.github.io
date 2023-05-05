@@ -11,8 +11,8 @@ nav_order: 5
 
 ## Awards
 
-|EAPLS Best Paper Award | FASE 2020| 2020|
-|Distinguished Engineering Paper Award | SCAM 2018| 2018|
+|EAPLS Best Paper Award | 2020| FASE 2020| 
+|Distinguished Engineering Paper Award | 2018 | SCAM 2018| 
 
 ## Grants
 
