@@ -6,10 +6,10 @@ description: "Welcome my homepage!"
 permalink: /
 ---
 
+<img src="{{site.baseurl}}/assets/images/me.jpg" width="120" style="float: right; position: relative; margin-right: 1em; ">
+
 # Yiming Tang (汤一鸣)
 {: .fs-9 }
-
-<img src="{{site.baseurl}}/assets/images/me.jpg" width="120" style="float: right; position: relative; margin-right: 1em; margin-top: -3.5em;">
 
 Incoming Assistant Professor at Rochester Institute of Technology\\
 Postdoctoral Fellow at Concordia University
