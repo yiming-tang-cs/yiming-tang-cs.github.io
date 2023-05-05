@@ -6,7 +6,7 @@ description: "Welcome my homepage!"
 permalink: /
 ---
 
-<img src="{{site.baseurl}}/assets/images/me.jpg" width="120" style="float: right; position: relative; margin-right: 1em; margin-left: 0.5em; ">
+<img src="{{site.baseurl}}/assets/images/me.jpg" width="120" style="float: right; position: relative; margin-right: 1em; margin-left: 0.5em; border:2px solid #04649B; box-shadow: 5px 5px 5px #ccc; -moz-box-shadow: 5px 5px 5px #ccc; -webkit-box-shadow: 5px 5px 5px #ccc; -khtml-box-shadow: 5px 5px 5px #ccc; border-radius:20px; ">
 
 # Yiming Tang (汤一鸣)
 {: .fs-9 }
