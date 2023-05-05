@@ -4,7 +4,7 @@ title: SEA Lab
 nav_order: 6
 ---
 
-# Software Engineering and Data Analytics (SEA)
+# Software Engineering and Data Analytics (SEDA)
 {: .no_toc }
 
 ----
