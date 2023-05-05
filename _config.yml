@@ -145,7 +145,7 @@ color_scheme: nil
 callouts_level: quiet # or loud
 callouts:
   highlight:
-    color: blue
+    color: yellow
   important:
     title: Important
     color: blue
