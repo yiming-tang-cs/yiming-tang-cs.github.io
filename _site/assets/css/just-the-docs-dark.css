@@ -1836,22 +1836,22 @@ h6,
 
 .btn-purple {
   color: #fff;
-  background-color: #df7402;
-  background-image: linear-gradient(#fd8608, #df7402);
+  background-color: #3379bf;
+  background-image: linear-gradient(#478bce, #3379bf);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 4px 10px rgba(0, 0, 0, 0.12);
 }
 .btn-purple:hover, .btn-purple.zeroclipboard-is-hover {
   color: #fff;
-  background-color: #d56e02;
-  background-image: linear-gradient(#f37e02, #d56e02);
+  background-color: #3174b7;
+  background-image: linear-gradient(#3b83cb, #3174b7);
 }
 .btn-purple:active, .btn-purple.selected, .btn-purple.zeroclipboard-is-active {
-  background-color: #d06c02;
+  background-color: #3071b3;
   background-image: none;
   box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 .btn-purple.selected:hover {
-  background-color: #b65f02;
+  background-color: #2a659f;
 }
 
 .btn-blue {
@@ -7544,14 +7544,14 @@ div.opaque {
 }
 
 p.highlight, blockquote.highlight {
-  background: rgba(255, 235, 130, 0.2);
-  border-left: 4px solid #e7af06;
+  background: rgba(44, 132, 250, 0.2);
+  border-left: 4px solid #183385;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
 }
 p.highlight > .highlight-title, blockquote.highlight > .highlight-title {
-  color: #e7af06;
+  color: #183385;
   display: block;
   font-weight: bold;
   text-transform: uppercase;
@@ -7560,8 +7560,8 @@ p.highlight > .highlight-title, blockquote.highlight > .highlight-title {
 }
 
 p.highlight-title, blockquote.highlight-title {
-  background: rgba(255, 235, 130, 0.2);
-  border-left: 4px solid #e7af06;
+  background: rgba(44, 132, 250, 0.2);
+  border-left: 4px solid #183385;
   border-radius: 4px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
   padding: 0.8rem;
@@ -7569,7 +7569,7 @@ p.highlight-title, blockquote.highlight-title {
 p.highlight-title > p:first-child, blockquote.highlight-title > p:first-child {
   margin-top: 0;
   margin-bottom: 0;
-  color: #e7af06;
+  color: #183385;
   display: block;
   font-weight: bold;
   text-transform: uppercase;
