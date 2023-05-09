@@ -29,6 +29,8 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
+📣 [05/2023] I will serve as a PC on the Research Papers Track of [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers)! <br/><br/>
+📣 [05/2023] I will serve as a PC of [PROMISE 2023](https://promiseconf.github.io/2023/index.html)! <br/><br/>
 📣 [05/2023] Paper accepted at [FSE 2023](https://2023.esec-fse.org/track/fse-2023-research-papers)! <br/><br/>
 📣 [05/2023] I will serve as a PC on the Research Track of [SCAM 2023](http://www.ieee-scam.org/2023/#cfpresearchtrack). <br/><br/>
 📣 [04/2023] I have received [ACM SIGSOFT CAPS Grants](https://www.sigsoft.org/resources/caps.html) for [ICSE 2023](https://conf.researchr.org/home/icse-2023). <br/><br/>

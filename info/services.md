@@ -11,6 +11,7 @@ nav_order: 3
 
 ## Program Committee Member
 
+| IEEE/ACM International Conference on Automated Software Engineering ([ASE](https://conf.researchr.org/series/ase)), Research Papers Track, 2023| 
 | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE](https://2023.esec-fse.org/track/fse-2023-research-papers)), Research Papers Track, 2023| 
 | The International Conference on Mining Software Repositories ([MSR](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers)), Technical Track, 2023| 
 | The International Symposium on Empirical Software Engineering and Measurement ([ESEM](https://conf.researchr.org/track/esem-2023/esem-2023-emerging-results-vision-and-reflection-papers)), Emerging Results, Vision and Reflection Papers Track, 2023| 
@@ -19,7 +20,7 @@ nav_order: 3
 |IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER](https://saner2023.must.edu.mo/negativerestrack)), RENE Track, 2023|
 | IEEE/ACM International Conference on Mobile Software Engineering and Systems ([MOBILESoft](https://conf.researchr.org/home/mobilesoft-2023)), Technical Papers Track, 2022, 2023|
 | ACM/SPEC International Conference on Performance Engineering ([ICPE](https://icpe2022.spec.org/)), Data Challenge Track, 2022|
-| The International Conference on Predictive Models and Data Analytics in Software Engineering ([PROMISE](https://promiseconf.github.io/2022/index.html)), 2021, 2022|
+| The International Conference on Predictive Models and Data Analytics in Software Engineering ([PROMISE](https://promiseconf.github.io/2022/index.html)), 2021, 2022, 2023 |
 | The ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA](https://conf.researchr.org/track/issta-2022/issta-2022-artifact-evaluation)), Artifact Evaluation Track, 2022 |
 
 ## Journal Reviewer
