@@ -24,7 +24,6 @@ I am an incoming Assistant Professor in the [Department of Software Engineering]
 
 {: .highlight}
 I am looking for **self-motivated** Ph.D., Master's and undergraduate students. Please contact me if you are interested in software engineering research.
-<!-- To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs. -->
 
 
 ## News
@@ -39,28 +38,30 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 {: .fs-3 .ls-10 .code-example }
 
 
-<!-- ----
-## Education
-
-- **Aug. 2017 - May 2021:**\\
-Ph.D. in Computer Science, Supervised by Prof. Raffi Khatchadourian\\
-City University of New York - Graduate Center, USA
-
-- **Sep. 2015 - Sep. 2016:**\\
-M.Sc. in Computer Science\\
-The University of Manchester, UK
-
-- **Sep. 2014 - Jun. 2015:**\\
-Study Abroad\\
-University of Leicester, UK
-
-- **Aug. 2011 - Jul. 2015:**\\
-B.Eng. in Software Engineering\\
-Xidian University, China -->
-
 
 ## Contact
-- Email: [yiming.tang@concordia.ca](mailto:yiming.tang@concordia.ca)
+<!-- - Email: [yiming.tang@concordia.ca](mailto:yiming.tang@concordia.ca)
 - Github: [yiming-tang-cs](https://github.com/yiming-tang-cs)
 - Google Scholar: [Yiming Tang](https://scholar.google.com/citations?user=yQd3GgoAAAAJ)
-- Twitter: [YimingTang7](https://twitter.com/YimingTang7)
+- Twitter: [YimingTang7](https://twitter.com/YimingTang7) -->
+
+
+<table>
+  <tr>
+    <td style="min-width:280px;">
+        <img src="{{site.baseurl}}/assets/images/email.png" width="29" >
+        <a style="font-size: 16px;" href="mailto:yiming.tang@concordia.ca">yiming.tang@concordia.ca</a>
+        <br/><br/>
+        <img src="{{site.baseurl}}/assets/images/github.png" width="25" style="margin-right: 0.2em;"> <a style="font-size: 16px;" href="https://github.com/yiming-tang-cs"> yiming-tang-cs</a>
+        <br/><br/>
+        <img src="{{site.baseurl}}/assets/images/google-scholar.png" width="29" > <a style="font-size: 16px;" href="https://scholar.google.com/citations?user=yQd3GgoAAAAJ">Yiming Tang</a>
+        <br/><br/>
+        <img src="{{site.baseurl}}/assets/images/twitter.png" width="28" > <a style="font-size: 16px;" href="https://twitter.com/YimingTang7">YimingTang7</a>
+    </td>
+    <td>
+        <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:425px;height:260px;"><div id="embed-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Concordia+University+Department+of+Computer+Science+and+Software+Engineering,+Guy+Street,+蒙特利尔魁北克省加拿大&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-ded-maphtml" href="https://kbj9qpmy.com/bp" id="auth-map-data">Internet Provider</a><style>#embed-map-display img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div> 
+
+    </td>
+  </tr>
+</table>
+
