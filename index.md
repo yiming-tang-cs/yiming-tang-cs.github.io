@@ -48,7 +48,7 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
         <img src="{{site.baseurl}}/assets/images/email.png" width="29" >
         <a style="font-size: 16px;" href="mailto:yiming.tang@concordia.ca">yiming.tang@concordia.ca</a>
         <br/><br/>
-        <img src="{{site.baseurl}}/assets/images/github.png" width="25" style="margin-right: 0.2em;"> <a style="font-size: 16px;" href="https://github.com/yiming-tang-cs"> yiming-tang-cs</a>
+        <img src="{{site.baseurl}}/assets/images/github.png" width="24" style="margin-right: 0.2em; margin-left: 0.1em;"> <a style="font-size: 16px;" href="https://github.com/yiming-tang-cs"> yiming-tang-cs</a>
         <br/><br/>
         <img src="{{site.baseurl}}/assets/images/google-scholar.png" width="29" > <a style="font-size: 16px;" href="https://scholar.google.com/citations?user=yQd3GgoAAAAJ">Yiming Tang</a>
         <br/><br/>
