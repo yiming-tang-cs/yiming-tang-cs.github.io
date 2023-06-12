@@ -10,10 +10,11 @@ nav_order: 5
 
 
 ## Awards
-|Concordia Conference and Exposition Award| Concordia University| CA$1,000.00 |2023|
+
+|Conference & Exposition Award | Concordia University | CA$1,000.00 | 2023 |
 |EAPLS Best Paper Award | FASE 2020| / |2020|
 |Distinguished Engineering Paper Award | SCAM 2018| / | 2018 | 
-|National Scholarship | Ministry of Education of the People's Republic of China | ¥8,000 | 2012 | 
+|National Scholarship | Ministry of Education of the People's Republic of China | ¥8,000   | 2012 | 
 
 ## Grants
 
