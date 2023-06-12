@@ -10,16 +10,16 @@ nav_order: 5
 
 
 ## Awards
-
-|EAPLS Best Paper Award | FASE 2020| 2020|
-|Distinguished Engineering Paper Award | SCAM 2018| 2018 | 
+|Concordia Conference and Exposition Award| Concordia University| CA$1,000.00 |2023|
+|EAPLS Best Paper Award | FASE 2020| / |2020|
+|Distinguished Engineering Paper Award | SCAM 2018| / | 2018 | 
+|National Scholarship | Ministry of Education of the People's Republic of China | ¥8,000 | 2012 | 
 
 ## Grants
 
 |ACM SIGSOFT CAPS Grants | SIGSOFT CAPS program | $1,000.00 | 2023 | 
 |Google Cloud Research Credits Program | Google Cloud Education Programs | CA$6,338.76 | 2022 |
 |ACM SIGSOFT CAPS Grants | SIGSOFT CAPS program | $700.00 | 2019 | 
-|National Scholarship | Ministry of Education of the People's Republic of China | ¥8,000 | 2012 | 
 
 
 ## Fellowships
