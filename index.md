@@ -49,14 +49,14 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
         <img src="{{site.baseurl}}/assets/images/email.png" width="29" >
         <a style="font-size: 16px;" href="mailto:yxtvse@rit.edu">yxtvse@rit.edu</a>
         <br/><br/>
-        <img src="{{site.baseurl}}/assets/images/github.png" width="24" style="margin-right: 0.2em; margin-left: 0.1em;"> <a style="font-size: 16px;" href="https://github.com/yiming-tang-cs"> yiming-tang-cs</a>
-        <br/><br/>
+        <!-- <img src="{{site.baseurl}}/assets/images/github.png" width="24" style="margin-right: 0.2em; margin-left: 0.1em;"> <a style="font-size: 16px;" href="https://github.com/yiming-tang-cs"> yiming-tang-cs</a>
+        <br/><br/> -->
         <img src="{{site.baseurl}}/assets/images/google-scholar.png" width="29" > <a style="font-size: 16px;" href="https://scholar.google.com/citations?user=yQd3GgoAAAAJ">Yiming Tang</a>
         <br/><br/>
         <img src="{{site.baseurl}}/assets/images/twitter.png" width="28" > <a style="font-size: 16px;" href="https://twitter.com/YimingTang7">YimingTang7</a>
     </td>
     <td>
-        <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:425px;height:260px;"><div id="embed-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Rochester+Institute+of+Technology,+Lomb+Memorial+Drive,+罗切斯特纽约美国&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-ded-maphtml" href="https://kbj9qpmy.com/bp" id="auth-map-data">Internet Provider</a><style>#embed-map-display img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div> 
+        <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:425px;height:230px;"><div id="embed-map-display" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=Golisano+College+of+Computing+and+Information+Sciences,+Lomb+Memorial+Drive,+罗切斯特纽约美国&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="embed-ded-maphtml" href="https://kbj9qpmy.com/bp" id="auth-map-data">Internet Provider</a><style>#embed-map-display img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div> 
     </td>
   </tr>
 </table>
