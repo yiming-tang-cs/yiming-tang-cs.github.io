@@ -8,6 +8,11 @@ nav_order: 4
 
 ----
 
+## Teaching at RIT
+
+| Introduction to Software Engineering | Fall 2023|
+
+
 ## Teaching at CUNY Hunter College
 
 | Discrete Structures Recitation×3 | Fall 2019|
