@@ -32,6 +32,9 @@ nav_order: 3
 | Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology)) 2022, 2023|
 | Journal of Parallel and Distributed Computing ([JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)), 2023| 
 
+## Grant Reviewer
+
+|Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), 2023|
 
 ## Session Chair
 
