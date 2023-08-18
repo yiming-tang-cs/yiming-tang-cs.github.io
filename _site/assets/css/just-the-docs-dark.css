@@ -2254,7 +2254,6 @@ td {
   font-size: 12px !important;
   min-width: 120px;
   padding: 0.5rem 0.75rem;
-  background-color: #302d36;
   border-bottom: 1px solid rgba(68, 67, 77, 0.5);
   border-left: 1px solid #44434d;
 }
@@ -2275,6 +2274,9 @@ tbody tr:last-of-type td {
 }
 tbody tr:last-of-type td {
   padding-bottom: 0.75rem;
+}
+tbody tr:nth-child(even) {
+  background: #f5f6fa;
 }
 
 thead th {

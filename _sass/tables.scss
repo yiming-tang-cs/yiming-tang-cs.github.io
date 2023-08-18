@@ -23,7 +23,7 @@ td {
 
   min-width: 120px;
   padding: $sp-2 $sp-3;
-  background-color: $table-background-color;
+  // background-color: $table-background-color;
   border-bottom: $border rgba($border-color, 0.5);
   border-left: $border $border-color;
 
@@ -45,6 +45,8 @@ tbody {
       }
     }
   }
+
+  tr:nth-child(even) { background: $grey-lt-000; }
 }
 
 thead {
