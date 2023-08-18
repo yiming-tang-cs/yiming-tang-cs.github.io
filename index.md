@@ -27,8 +27,10 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
+📣 [08/2023] Paper accepted at [TOSEM](https://dl.acm.org/journal/tosem)! <br/><br/>
 📣 [08/2023] I will serve as a grant reviewer for Canada Foundation for Innovation ([CFI](https://www.innovation.ca/))! <br/><br/>
 📣 [07/2023] I will serve as a PC on the Technical Papers Track of [MSR 2024](https://2024.msrconf.org/track/msr-2024-technical-papers)! <br/><br/>
+📣 [07/2023] I will serve as a PC on the Research Track of [ICPE 2024](https://icpe2024.spec.org/)! <br/><br/>
 📣 [07/2023] I will serve as a PC on the Research Papers Track of [SANER 2024](https://conf.researchr.org/track/saner-2024/saner-2024-papers)! <br/><br/>
 📣 [05/2023] I will serve as a PC on the Research Papers Track of [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers)! <br/><br/>
 📣 [05/2023] I will serve as a PC of [PROMISE 2023](https://promiseconf.github.io/2023/index.html)! <br/><br/>

@@ -11,6 +11,7 @@ nav_order: 3
 
 ## Program Committee Member
 
+| ACM/SPEC International Conference on Performance Engineering ([ICPE](https://icpe2024.spec.org/)), Research Track, 2024|
 | IEEE/ACM International Conference on Automated Software Engineering ([ASE](https://conf.researchr.org/series/ase)), Research Papers Track, 2023| 
 | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE](https://2023.esec-fse.org/track/fse-2023-research-papers)), Research Papers Track, 2023| 
 | The International Conference on Mining Software Repositories ([MSR](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers)), Technical Track, 2023, 2024| 
