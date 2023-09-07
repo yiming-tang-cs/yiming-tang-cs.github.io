@@ -27,6 +27,7 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
+📣 [09/2023] I will serve as a member for [GCCIS PhD Curriculum Committee](https://www.rit.edu/computing/phd-computing-and-information-sciences/resources)! <br/><br/>
 📣 [08/2023] Paper accepted at [TOSEM](https://dl.acm.org/journal/tosem)! <br/><br/>
 📣 [08/2023] I will serve as a grant reviewer for Canada Foundation for Innovation ([CFI](https://www.innovation.ca/))! <br/><br/>
 📣 [07/2023] I will serve as a PC on the Technical Papers Track of [MSR 2024](https://2024.msrconf.org/track/msr-2024-technical-papers)! <br/><br/>

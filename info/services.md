@@ -42,15 +42,23 @@ nav_order: 3
 | IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER](https://saner2023.must.edu.mo/)), Empirical Study, 2023 |
 | ACM/SPEC International Conference on Performance Engineering ([ICPE](https://icpe2022.spec.org/)), Hardware Performance, 2022 |
 
+## Judge
+
+| The ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity ([SPLASH](https://2021.splashcon.org/track/splash-2021-SRC?plenary=Hide%20plenary%20sessions)), Student Research Competition Track, 2021 |
+
+-----
+
+
+## Departmental/College/University Service
+
+|[GCCIS PhD Curriculum Committee](https://www.rit.edu/computing/phd-computing-and-information-sciences/resources), 2023-2025|
+
+-------
 
 ## External Reviewer/Subreviewer
 
 | The Mining Software Repositories Conference ([MSR](https://conf.researchr.org/home/msr-2022)), Technical Papers Track, 2022 |
 |The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering([ESEC/FSE](https://2018.fseconference.org/)), Demonstrations Track, 2018|
-
-## Judge
-
-| The ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity ([SPLASH](https://2021.splashcon.org/track/splash-2021-SRC?plenary=Hide%20plenary%20sessions)), Student Research Competition Track, 2021 |
 
 ## Student Volunteer
 
