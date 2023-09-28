@@ -10,7 +10,7 @@ nav_order: 2
 ----
 
 |Zishuo Ding, **Yiming Tang**, Xiaoyu Cheng, Heng Li, Weiyi Shang. LoGenText-Plus: Improving Neural Machine Translation-based Logging Texts Generation with Syntactic Templates. *ACM Transactions on Software Engineering and Methodology*. To appear. |
-|Jinfu Chen, Zishuo Ding, **Yiming Tang**, Mohammed Sayagh, Heng Li, Bram Adams and Weiyi Shang. IoPV: On Inconsistent Option Performance Variations. In *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, ESEC/FSE ’23. To appear.|
+|Jinfu Chen, Zishuo Ding, **Yiming Tang**, Mohammed Sayagh, Heng Li, Bram Adams and Weiyi Shang. IoPV: On Inconsistent Option Performance Variations. In *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, ESEC/FSE ’23. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/FSE_2023_JINFU.pdf) |
 |Jianchen Zhao, **Yiming Tang**, Sneha Sunil, Weiyi Shang. Studying and complementing the use of identifiers in logs. In *International Conference on Software Analysis, Evolution and Reengineering*, SANER ’23. [PDF](https://users.encs.concordia.ca/~shang/pubs/SANER2023_Jianchen.pdf)| 
 |Zishuo Ding, **Yiming Tang**, Yang Li, Heng Li, Weiyi Shang. On the temporal relations between logging and code. In *International Conference on Software Engineering*, ICSE ’23. [PDF](https://users.encs.concordia.ca/~shang/pubs/ICSE2023_ZISHUO.pdf)| 
 |Hetong Dai, **Yiming Tang**, Heng Li, Weiyi Shang. PILAR: Studying and mitigating the influence of configurations on log parsing. In *International Conference on Software Engineering*, ICSE ’23. [PDF](https://users.encs.concordia.ca/~shang/pubs/ICSE2023_HETONG.pdf) | 
