@@ -18,6 +18,10 @@ Assistant Professor at Rochester Institute of Technology
 
 ---
 
+Rochester Institute of Technology (RIT) is a central research institution in the field of **Software Engineering**, ranking [39th](https://csrankings.org/#/fromyear/2010/toyear/2023/index?soft&us) in the United States🇺🇸.
+
+---
+
 I am an Assistant Professor in the [Department of Software Engineering](https://www.rit.edu/computing/department-software-engineering) at [Rochester Institute of Technology](https://www.rit.edu/), USA, and was a Horizon Postdoctoral Fellow in the [Department of Computer Science and Software Engineering](https://www.concordia.ca/ginacody/computer-science-software-eng.html) at [Concordia University](https://www.concordia.ca/), Canada. I received my Ph.D. in [Computer Science](https://www.gc.cuny.edu/computer-science) from [City University of New York - Graduate Center](https://www.gc.cuny.edu/), USA. I was the instructor of Hunter College Cyber Security Summer Camp, which was only open to non-CS female undergraduates who were interested in CS. My research areas include **software quality**, **empirical software engineering**, and **software logging**. My research has been published in flagship software engineering research venues such as ICSE, TSE, and EMSE. My work has won the best (distinguished) paper awards at two international software engineering conferences. 
 
 
