@@ -15,3 +15,15 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 <img src="{{site.baseurl}}/assets/images/logo.pic.jpg" width="300" style=" position: relative; margin-left: 1em; ">
 
 The website is still under development. Stay tuned!
+
+
+---
+
+## Current Research Students
+
+<br>
+#### Master's 
+
+<br>
+Poorna Chander Reddy Puttaparthi <br>
+Soham Sanjay Deo
