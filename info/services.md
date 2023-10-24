@@ -37,6 +37,7 @@ nav_order: 3
 
 ## Session Chair
 
+| The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE](https://2023.esec-fse.org/)), Log Analysis and Debugging, 2023 | 
 | IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER](https://saner2023.must.edu.mo/)), Empirical Study, 2023 |
 | ACM/SPEC International Conference on Performance Engineering ([ICPE](https://icpe2022.spec.org/)), Hardware Performance, 2022 |
 
