@@ -11,7 +11,7 @@ nav_order: 6
 
 
 <img src="{{site.baseurl}}/assets/images/logo.pic.jpg" width="240" align="left" style=" float: left; margin-left: 1em; ">
-SEDA Lab is committed to enhancing software quality, supporting software production, testing, and evolution using the cutting-edge software engineering technologies. Our focus is on large-scale software systems and big data, embracing SE4AI and MLOps.
+SEDA Lab is committed to enhancing software quality, supporting software production, testing, and evolution using the cutting-edge software engineering techniques. Our focus is on large-scale software systems and big data, embracing SE4AI and MLOps.
 
 SEDA Lab is located in the Software Engineering Department at RIT. SEDA has a fully funded PhD position and Graduate Assistant positions available. If you are interested in software engineering research, please feel free to contact me.
 
@@ -26,4 +26,5 @@ SEDA Lab is located in the Software Engineering Department at RIT. SEDA has a fu
 
 <br>
 Poorna Chander Reddy Puttaparthi <br>
-Soham Sanjay Deo
+Soham Sanjay Deo <br>
+Hakan Gul
