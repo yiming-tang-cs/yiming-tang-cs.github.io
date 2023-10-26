@@ -10,8 +10,8 @@ nav_order: 4
 
 ## Teaching at RIT
 
+| Collaborative Software Development | Spring 2024 |
 | Introduction to Software Engineering | Fall 2023|
-| Collaborative Software Dev | Spring 2024 |
 
 
 ## Teaching at CUNY Hunter College
