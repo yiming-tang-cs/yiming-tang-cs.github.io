@@ -64,7 +64,7 @@
   },"9": {
     "doc": "Home",
     "title": "News",
-    "content": "📣 [09/2023] I will serve as a member for GCCIS PhD Curriculum Committee! 📣 [08/2023] Paper accepted at TOSEM! 📣 [08/2023] I will serve as a grant reviewer for Canada Foundation for Innovation (CFI)! 📣 [07/2023] I will serve as a PC on the Technical Papers Track of MSR 2024! 📣 [07/2023] I will serve as a PC on the Research Track of ICPE 2024! 📣 [07/2023] I will serve as a PC on the Research Papers Track of SANER 2024! 📣 [05/2023] I will serve as a PC on the Research Papers Track of ASE 2023! 📣 [05/2023] I will serve as a PC of PROMISE 2023! 📣 [05/2023] Paper accepted at FSE 2023! 📣 [05/2023] I will serve as a PC on the Research Track of SCAM 2023. 📣 [04/2023] I have received ACM SIGSOFT CAPS Grants for ICSE 2023. 📣 [04/2023] I will join Software Engineering department of Rochester Institute of Technology as an Assistant Professor this summer! 📣 [03/2023] I will serve as a PC on the Emerging Results, Vision and Reflection Papers Track of ESEM 2023. ",
+    "content": "📣 [11/2023] I will serve as a PC on the Research Track of ICSE 2025! 📣 [09/2023] I will serve as a member for GCCIS PhD Curriculum Committee! 📣 [08/2023] Paper accepted at TOSEM! 📣 [08/2023] I will serve as a grant reviewer for Canada Foundation for Innovation (CFI)! 📣 [07/2023] I will serve as a PC on the Technical Papers Track of MSR 2024! 📣 [07/2023] I will serve as a PC on the Research Track of ICPE 2024! 📣 [07/2023] I will serve as a PC on the Research Papers Track of SANER 2024! 📣 [05/2023] I will serve as a PC on the Research Papers Track of ASE 2023! 📣 [05/2023] I will serve as a PC of PROMISE 2023! 📣 [05/2023] Paper accepted at FSE 2023! . ",
     "url": "/#news",
     
     "relUrl": "/#news"
@@ -99,7 +99,7 @@
   },"14": {
     "doc": "Services",
     "title": "Program Committee Member",
-    "content": "| ACM/SPEC International Conference on Performance Engineering (ICPE) • Research Track, 2024 • Data Challenge Track, 2022 | . | IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, 2023 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, 2023 | . | The International Conference on Mining Software Repositories (MSR), Technical Track, 2023, 2024 | . | The International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results, Vision and Reflection Papers Track, 2023 | . | IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), Research Track, 2023 | . | The International Workshop on Load Testing and Benchmarking of Software Systems (LTB), 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) • Research Papers Track, 2024 • RENE Track, 2023 | . | IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft), Technical Papers Track, 2022, 2023 | . | The International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2021, 2022, 2023 | . | The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Artifact Evaluation Track, 2022 | . ",
+    "content": "| The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, 2025 | . | ACM/SPEC International Conference on Performance Engineering (ICPE) • Research Track, 2024 • Data Challenge Track, 2022 | . | IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, 2023 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, 2023 | . | The International Conference on Mining Software Repositories (MSR), Technical Track, 2023, 2024 | . | The International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results, Vision and Reflection Papers Track, 2023 | . | IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), Research Track, 2023 | . | The International Workshop on Load Testing and Benchmarking of Software Systems (LTB), 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) • Research Papers Track, 2024 • RENE Track, 2023 | . | IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft), Technical Papers Track, 2022, 2023 | . | The International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2021, 2022, 2023 | . | The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Artifact Evaluation Track, 2022 | . ",
     "url": "/info/services/#program-committee-member",
     
     "relUrl": "/info/services/#program-committee-member"
@@ -162,7 +162,7 @@
   },"23": {
     "doc": "Teaching",
     "title": "Teaching at RIT",
-    "content": "| Introduction to Software Engineering | Fall 2023 | . ",
+    "content": "| Collaborative Software Development | Spring 2024 | . | Introduction to Software Engineering | Fall 2023 | . ",
     "url": "/info/teaching/#teaching-at-rit",
     
     "relUrl": "/info/teaching/#teaching-at-rit"
