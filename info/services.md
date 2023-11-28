@@ -13,7 +13,7 @@ nav_order: 3
 
 | The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, [2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)| 
 | ACM/SPEC International Conference on Performance Engineering (ICPE) <br/> • Research Track, [2024](https://icpe2024.spec.org/) <br/> • Data Challenge Track, [2022](https://icpe2022.spec.org/tracks-and-submissions/data-challenge-track/)|
-| IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, [2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers?)| 
+| IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, [2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers?), [2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)| 
 | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, [2023](https://2023.esec-fse.org/track/fse-2023-research-papers)| 
 | The International Conference on Mining Software Repositories (MSR), Technical Track, [2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers), [2024](https://2024.msrconf.org/track/msr-2024-technical-papers)| 
 | The International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results, Vision and Reflection Papers Track, [2023](https://conf.researchr.org/track/esem-2023/esem-2023-emerging-results-vision-and-reflection-papers)| 
