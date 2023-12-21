@@ -35,7 +35,7 @@ nav_order: 3
 ## Grant Reviewer
 
 |Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), 2023|
-|U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), 2023|
+|U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), 2024|
 
 ## Session Chair
 
