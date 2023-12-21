@@ -18,7 +18,7 @@ Assistant Professor at Rochester Institute of Technology
 
 ---
 
-Rochester Institute of Technology (RIT) is a central research institution in the field of **Software Engineering**, ranking [39th](https://csrankings.org/#/fromyear/2010/toyear/2023/index?soft&us) in the United States🇺🇸.
+Rochester Institute of Technology (RIT) is a central research institution in the field of **Software Engineering**, ranking [53th](https://csrankings.org/#/fromyear/2010/toyear/2023/index?soft&us) in the United States🇺🇸.
 
 ---
 
@@ -31,6 +31,7 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
+📣 [12/2023] I will serve on an [NSF](https://www.nsf.gov/) review panel! <br/><br/>
 📣 [11/2023] I will serve as a PC on the Research Track of [ASE 2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)! <br/><br/>
 📣 [11/2023] I will serve as a PC on the Research Track of [ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)! <br/><br/>
 📣 [09/2023] I will serve as a member for [GCCIS PhD Curriculum Committee](https://www.rit.edu/computing/phd-computing-and-information-sciences/resources)! <br/><br/>
