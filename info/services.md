@@ -37,6 +37,10 @@ nav_order: 3
 |Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), 2023|
 |U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), 2024|
 
+## Publicity Chair
+
+| International Conference on Predictive Models and Data Analytics in Software Engineering ([PROMISE](https://twitter.com/promise_conf)), 2024 |
+
 ## Session Chair
 
 | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE](https://2023.esec-fse.org/)), Log Analysis and Debugging, 2023 | 
