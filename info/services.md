@@ -39,7 +39,7 @@ nav_order: 3
 
 ## Publicity Chair
 
-| International Conference on Predictive Models and Data Analytics in Software Engineering ([PROMISE](https://twitter.com/promise_conf)), 2024 |
+| International Conference on Predictive Models and Data Analytics in Software Engineering ([PROMISE](https://promiseconf.github.io/2024/index.html)), 2024 |
 
 ## Session Chair
 

@@ -31,7 +31,7 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
-📣 [12/2023] I will serve as a publicity chair for [PROMISE 2024](https://twitter.com/promise_conf)! <br/><br/>
+📣 [12/2023] I will serve as a publicity chair for [PROMISE 2024](https://promiseconf.github.io/2024/index.html)! <br/><br/>
 📣 [12/2023] I will serve on an [NSF](https://www.nsf.gov/) review panel! <br/><br/>
 📣 [11/2023] I will serve as a PC on the Research Track of [ASE 2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)! <br/><br/>
 📣 [11/2023] I will serve as a PC on the Research Track of [ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)! <br/><br/>
