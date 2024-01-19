@@ -31,6 +31,7 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
+📣 [01/2024] I will serve as a guest editor for [TOSEM Special Issue](https://dl.acm.org/journal/tosem/frontiers)! <br/><br/>
 📣 [12/2023] I will serve as a publicity chair for [PROMISE 2024](https://promiseconf.github.io/2024/index.html)! <br/><br/>
 📣 [12/2023] I will serve on an [NSF](https://www.nsf.gov/) review panel! <br/><br/>
 📣 [11/2023] I will serve as a PC on the Research Track of [ASE 2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)! <br/><br/>

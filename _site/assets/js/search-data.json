@@ -64,7 +64,7 @@
   },"9": {
     "doc": "Home",
     "title": "News",
-    "content": "📣 [12/2023] I will serve as a publicity chair for PROMISE 2024! 📣 [12/2023] I will serve on an NSF review panel! 📣 [11/2023] I will serve as a PC on the Research Track of ASE 2024! 📣 [11/2023] I will serve as a PC on the Research Track of ICSE 2025! 📣 [09/2023] I will serve as a member for GCCIS PhD Curriculum Committee! 📣 [08/2023] Paper accepted at TOSEM! 📣 [08/2023] I will serve as a grant reviewer for Canada Foundation for Innovation (CFI)! 📣 [07/2023] I will serve as a PC on the Technical Papers Track of MSR 2024! 📣 [07/2023] I will serve as a PC on the Research Track of ICPE 2024! 📣 [07/2023] I will serve as a PC on the Research Papers Track of SANER 2024! 📣 [05/2023] I will serve as a PC on the Research Papers Track of ASE 2023! 📣 [05/2023] I will serve as a PC of PROMISE 2023! 📣 [05/2023] Paper accepted at FSE 2023! . ",
+    "content": "📣 [01/2024] I will serve as a guest editor for TOSEM Special Issue! 📣 [12/2023] I will serve as a publicity chair for PROMISE 2024! 📣 [12/2023] I will serve on an NSF review panel! 📣 [11/2023] I will serve as a PC on the Research Track of ASE 2024! 📣 [11/2023] I will serve as a PC on the Research Track of ICSE 2025! 📣 [09/2023] I will serve as a member for GCCIS PhD Curriculum Committee! 📣 [08/2023] Paper accepted at TOSEM! 📣 [08/2023] I will serve as a grant reviewer for Canada Foundation for Innovation (CFI)! 📣 [07/2023] I will serve as a PC on the Technical Papers Track of MSR 2024! 📣 [07/2023] I will serve as a PC on the Research Track of ICPE 2024! 📣 [07/2023] I will serve as a PC on the Research Papers Track of SANER 2024! 📣 [05/2023] I will serve as a PC on the Research Papers Track of ASE 2023! 📣 [05/2023] I will serve as a PC of PROMISE 2023! 📣 [05/2023] Paper accepted at FSE 2023! . ",
     "url": "/#news",
     
     "relUrl": "/#news"
@@ -106,7 +106,7 @@
   },"15": {
     "doc": "Services",
     "title": "Journal Reviewer",
-    "content": "| IEEE Transactions on Software Engineering (TSE), 2021, 2023 | . | Empirical Software Engineering (EMSE), 2021, 2022, 2023 | . | Journal of System and Software (JSS), 2022, 2023 | . | Information and Software Technology (IST) 2022, 2023 | . | Journal of Parallel and Distributed Computing (JPDC), 2023 | . ",
+    "content": "| IEEE Transactions on Software Engineering (TSE), 2021, 2023, 2024 | . | Empirical Software Engineering (EMSE), 2021, 2022, 2023 | . | Journal of System and Software (JSS), 2022, 2023 | . | Information and Software Technology (IST) 2022, 2023 | . | Journal of Parallel and Distributed Computing (JPDC), 2023 | . ",
     "url": "/info/services/#journal-reviewer",
     
     "relUrl": "/info/services/#journal-reviewer"
@@ -119,82 +119,89 @@
     "relUrl": "/info/services/#grant-reviewer"
   },"17": {
     "doc": "Services",
+    "title": "Guest Editor",
+    "content": "| Special Issue in ACM Transactions on Software Engineering and Methodology (TOSEM), 2024 | . ",
+    "url": "/info/services/#guest-editor",
+    
+    "relUrl": "/info/services/#guest-editor"
+  },"18": {
+    "doc": "Services",
     "title": "Publicity Chair",
     "content": "| International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2024 | . ",
     "url": "/info/services/#publicity-chair",
     
     "relUrl": "/info/services/#publicity-chair"
-  },"18": {
+  },"19": {
     "doc": "Services",
     "title": "Session Chair",
     "content": "| The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Log Analysis and Debugging, 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Empirical Study, 2023 | . | ACM/SPEC International Conference on Performance Engineering (ICPE), Hardware Performance, 2022 | . ",
     "url": "/info/services/#session-chair",
     
     "relUrl": "/info/services/#session-chair"
-  },"19": {
+  },"20": {
     "doc": "Services",
     "title": "Judge",
     "content": "| The ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH), Student Research Competition Track, 2021 | . ",
     "url": "/info/services/#judge",
     
     "relUrl": "/info/services/#judge"
-  },"20": {
+  },"21": {
     "doc": "Services",
     "title": "Departmental/College/University Service",
     "content": "| GCCIS PhD Curriculum Committee, 2023-2025 | . ",
     "url": "/info/services/#departmentalcollegeuniversity-service",
     
     "relUrl": "/info/services/#departmentalcollegeuniversity-service"
-  },"21": {
+  },"22": {
     "doc": "Services",
     "title": "External Reviewer/Subreviewer",
     "content": "| The Mining Software Repositories Conference (MSR), Technical Papers Track, 2022 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering(ESEC/FSE), Demonstrations Track, 2018 | . ",
     "url": "/info/services/#external-reviewersubreviewer",
     
     "relUrl": "/info/services/#external-reviewersubreviewer"
-  },"22": {
+  },"23": {
     "doc": "Services",
     "title": "Student Volunteer",
     "content": "| ACM/IEEE International Conference on Software Engineering (ICSE), 2019 | . | PostgresConf US (PostgresConf), 2018 | . ",
     "url": "/info/services/#student-volunteer",
     
     "relUrl": "/info/services/#student-volunteer"
-  },"23": {
+  },"24": {
     "doc": "Teaching",
     "title": "Teaching",
     "content": ". ",
     "url": "/info/teaching/",
     
     "relUrl": "/info/teaching/"
-  },"24": {
+  },"25": {
     "doc": "Teaching",
     "title": "Teaching at RIT",
     "content": "| Collaborative Software Development | Spring 2024 | . | Introduction to Software Engineering | Fall 2023 | . ",
     "url": "/info/teaching/#teaching-at-rit",
     
     "relUrl": "/info/teaching/#teaching-at-rit"
-  },"25": {
+  },"26": {
     "doc": "Teaching",
     "title": "Teaching at CUNY Hunter College",
     "content": "| Discrete Structures Recitation×3 | Fall 2019 | . ",
     "url": "/info/teaching/#teaching-at-cuny-hunter-college",
     
     "relUrl": "/info/teaching/#teaching-at-cuny-hunter-college"
-  },"26": {
+  },"27": {
     "doc": "Teaching",
     "title": "Teaching at Hunter College Cyber Security Summer Camp",
     "content": "| Introduction to Python (only open to female undergraduate students) | Summer 2018 | . ",
     "url": "/info/teaching/#teaching-at-hunter-college-cyber-security-summer-camp",
     
     "relUrl": "/info/teaching/#teaching-at-hunter-college-cyber-security-summer-camp"
-  },"27": {
+  },"28": {
     "doc": "Teaching",
     "title": "Grader or Teaching Assistant at CUNY Hunter College",
     "content": "| Software Design and Analysis III | Spring 2021 | . | Software Engineering | Spring 2021 | . | Computer Theory I | Fall 2020 | . | Fundamentals of Reactive Programming Seminar | Fall 2020 | . | Software Engineering/Contemporary Application Development | Spring 2020 | . | Advanced Programming Languages | Spring 2019 | . ",
     "url": "/info/teaching/#grader-or-teaching-assistant-at-cuny-hunter-college",
     
     "relUrl": "/info/teaching/#grader-or-teaching-assistant-at-cuny-hunter-college"
-  },"28": {
+  },"29": {
     "doc": "Work Experience",
     "title": "Work Experience",
     "content": ". | Jul. 2023 - present:Assistant Professor Rochester Institute of Technology, USA | . | May 2021 - Jun. 2023:Postdoctoral Research Fellow Concordia University, Canada Supervised by Prof. Weiyi Shang | . | Jan. 2019 - May 2021:Adjunct Lecturer City University of New York - Hunter College, USA | . | Aug. 2017 - May 2021:Research Assistant City University of New York - Graduate Center, USA | . | Aug. 2018:Instructor of Hunter College Cyber Security Summer Camp City University of New York - Hunter College, USA | . ",
