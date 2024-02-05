@@ -27,7 +27,7 @@ nav_order: 3
 ## Journal Reviewer
 
 | IEEE Transactions on Software Engineering ([TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)), 2021, 2023, 2024| 
-| Empirical Software Engineering ([EMSE](https://www.springer.com/journal/10664)), 2021, 2022, 2023 | 
+| Empirical Software Engineering ([EMSE](https://www.springer.com/journal/10664)), 2021, 2022, 2023, 2024 | 
 | Journal of System and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), 2022, 2023 | 
 | Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology)) 2022, 2023|
 | Journal of Parallel and Distributed Computing ([JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)), 2023| 
