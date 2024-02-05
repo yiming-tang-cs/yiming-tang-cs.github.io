@@ -22,9 +22,13 @@ SEDA Lab is located in the Software Engineering Department at RIT. SEDA has a fu
 ## Current Research Students
 
 <br>
-#### Master's 
+#### Ph.D.
+
+Zhiyuan Chen, since 08/2024 
 
 <br>
-Poorna Chander Reddy Puttaparthi <br>
-Soham Sanjay Deo <br>
-Hakan Gul
+#### Master's 
+
+Poorna Chander Reddy Puttaparthi, since 09/2023 <br>
+Soham Sanjay Deo, since 10/2023 <br>
+Hakan Gul, since 10/2023
