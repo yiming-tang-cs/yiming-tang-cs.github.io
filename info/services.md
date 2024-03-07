@@ -37,10 +37,6 @@ nav_order: 3
 |Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), 2023|
 |U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), 2024|
 
-## Guest Editor
-
-| Special Issue in ACM Transactions on Software Engineering and Methodology ([TOSEM](https://dl.acm.org/journal/tosem/frontiers)), 2024 |
-
 
 ## Publicity Chair
 
