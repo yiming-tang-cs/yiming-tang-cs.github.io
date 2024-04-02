@@ -30,5 +30,9 @@ Zhiyuan Chen, since 08/2024
 #### Master's 
 
 Poorna Chander Reddy Puttaparthi, since 09/2023 <br>
-Soham Sanjay Deo, since 10/2023 <br>
 Hakan Gul, since 10/2023
+
+
+## Past Research Students
+
+Soham Sanjay Deo, 10/2023 - 3/2023 
