@@ -11,8 +11,9 @@ nav_order: 3
 
 ## Program Committee Member
 
+| The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) <br/> •  Research Papers Track, [2025](https://conf.researchr.org/track/issta-2025/issta-2025-papers) <br/> • Artifact Evaluation Track, [2022](https://conf.researchr.org/track/issta-2022/issta-2022-artifact-evaluation) |
+| ACM/SPEC International Conference on Performance Engineering (ICPE) <br/> • Research Track, [2024](https://icpe2024.spec.org/) <br/> • Emerging Research Track, [2024](https://icpe2024.spec.org/tracks-and-submissions/) <br/> • Data Challenge Track, [2022](https://icpe2022.spec.org/tracks-and-submissions/data-challenge-track/) |
 | The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, [2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)| 
-| ACM/SPEC International Conference on Performance Engineering (ICPE) <br/> • Research Track, [2024](https://icpe2024.spec.org/) <br/> • Data Challenge Track, [2022](https://icpe2022.spec.org/tracks-and-submissions/data-challenge-track/) <br/> • Emerging Research Track, [2024](https://icpe2024.spec.org/tracks-and-submissions/)|
 | IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, [2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers?), [2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)| 
 | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, [2023](https://2023.esec-fse.org/track/fse-2023-research-papers)| 
 | The International Conference on Mining Software Repositories (MSR), Technical Track, [2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers), [2024](https://2024.msrconf.org/track/msr-2024-technical-papers)| 
@@ -22,7 +23,6 @@ nav_order: 3
 |IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) <br/> • Research Papers Track, [2024](https://conf.researchr.org/track/saner-2024/saner-2024-papers) <br/> • RENE Track, [2023](https://saner2023.must.edu.mo/negativerestrack)|
 | IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft), Technical Papers Track, [2022](https://conf.researchr.org/track/mobilesoft-2022/mobilesoft-2022-technical-papers?), [2023](https://conf.researchr.org/home/mobilesoft-2023)|
 | The International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), [2021](https://promiseconf.github.io/2021/index.html), [2022](https://promiseconf.github.io/2022/index.html), [2023](https://promiseconf.github.io/2023/index.html), [2024](https://conf.researchr.org/home/promise-2024) |
-| The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Artifact Evaluation Track, [2022](https://conf.researchr.org/track/issta-2022/issta-2022-artifact-evaluation) |
 
 ## Journal Reviewer
 

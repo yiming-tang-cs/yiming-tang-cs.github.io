@@ -8,122 +8,122 @@
   },"1": {
     "doc": "SEDA Lab",
     "title": "Current Research Students",
-    "content": ". Ph.D. Zhiyuan Chen, since 08/2024 . Master’s . Poorna Chander Reddy Puttaparthi, since 09/2023 Soham Sanjay Deo, since 10/2023 Hakan Gul, since 10/2023 . ",
+    "content": ". Ph.D. Zhiyuan Chen, since 08/2024 . Master’s . Poorna Chander Reddy Puttaparthi, since 09/2023 Hakan Gul, since 10/2023 . ",
     "url": "/info/SEDA/#current-research-students",
     
     "relUrl": "/info/SEDA/#current-research-students"
   },"2": {
+    "doc": "SEDA Lab",
+    "title": "Past Research Students",
+    "content": ". Master’s . Soham Sanjay Deo, 10/2023 - 3/2023 . ",
+    "url": "/info/SEDA/#past-research-students",
+    
+    "relUrl": "/info/SEDA/#past-research-students"
+  },"3": {
     "doc": "SEDA Lab",
     "title": "SEDA Lab",
     "content": " ",
     "url": "/info/SEDA/",
     
     "relUrl": "/info/SEDA/"
-  },"3": {
+  },"4": {
     "doc": "Awards/Grants",
     "title": "Awards/Grants",
     "content": ". ",
     "url": "/info/award/",
     
     "relUrl": "/info/award/"
-  },"4": {
+  },"5": {
     "doc": "Awards/Grants",
     "title": "Awards",
     "content": "| Conference &amp; Exposition Award | Concordia University | CA$1,000.00 | 2023 | . | EAPLS Best Paper Award | FASE 2020 | / | 2020 | . | Distinguished Engineering Paper Award | SCAM 2018 | / | 2018 | . | National Scholarship | Ministry of Education of the People’s Republic of China | ¥8,000 | 2012 | . ",
     "url": "/info/award/#awards",
     
     "relUrl": "/info/award/#awards"
-  },"5": {
+  },"6": {
     "doc": "Awards/Grants",
     "title": "Grants",
     "content": "| ACM SIGSOFT CAPS Grants@FSE | SIGSOFT CAPS program | $400.00 | 2023 | . | ACM SIGSOFT CAPS Grants@ICSE | SIGSOFT CAPS program | $1,000.00 | 2023 | . | Google Cloud Research Credits Program | Google Cloud Education Programs | CA$6,338.76 | 2022 | . | ACM SIGSOFT CAPS Grants@ICSE | SIGSOFT CAPS program | $700.00 | 2019 | . ",
     "url": "/info/award/#grants",
     
     "relUrl": "/info/award/#grants"
-  },"6": {
+  },"7": {
     "doc": "Awards/Grants",
     "title": "Fellowships",
     "content": "| Horizon Postdoctoral Fellowship | Concordia University | 2021 - 2023 | . | Science Fellowships | CUNY Graduate Center | 2017 - 2021 | . ",
     "url": "/info/award/#fellowships",
     
     "relUrl": "/info/award/#fellowships"
-  },"7": {
+  },"8": {
     "doc": "Education",
     "title": "Education",
     "content": ". | Aug. 2017 - May 2021: Ph.D. in Computer Science City University of New York - Graduate Center, USA Supervised by Prof. Raffi Khatchadourian | . | Sep. 2015 - Sep. 2016: M.Sc. in Computer Science The University of Manchester, UK | . | Sep. 2014 - Jun. 2015: Study Abroad University of Leicester, UK | . | Aug. 2011 - Jul. 2015: B.Eng. in Software Engineering Xidian University, China | . ",
     "url": "/info/education/",
     
     "relUrl": "/info/education/"
-  },"8": {
+  },"9": {
     "doc": "Home",
     "title": "Yiming Tang (汤一鸣)",
     "content": "Assistant Professor at Rochester Institute of Technology . Email Twitter . Rochester Institute of Technology (RIT) is a central research institution in the field of Software Engineering, ranking 53th in the United States🇺🇸. I am an Assistant Professor in the Department of Software Engineering at Rochester Institute of Technology, USA, and was a Horizon Postdoctoral Fellow in the Department of Computer Science and Software Engineering at Concordia University, Canada. I received my Ph.D. in Computer Science from City University of New York - Graduate Center, USA. I was the instructor of Hunter College Cyber Security Summer Camp, which was only open to non-CS female undergraduates who were interested in CS. My research areas include software quality, empirical software engineering, and software logging. My research has been published in flagship software engineering research venues such as ICSE, TSE, and EMSE. My work has won the best (distinguished) paper awards at two international software engineering conferences. I am looking for self-motivated Ph.D., Master’s and undergraduate students. Please contact me if you are interested in software engineering research. ",
     "url": "/#yiming-tang-%E6%B1%A4%E4%B8%80%E9%B8%A3",
     
     "relUrl": "/#yiming-tang-汤一鸣"
-  },"9": {
+  },"10": {
     "doc": "Home",
     "title": "News",
-    "content": "📣 [01/2024] I will serve as a guest editor for TOSEM Special Issue! 📣 [12/2023] I will serve as a publicity chair for PROMISE 2024! 📣 [12/2023] I will serve on an NSF review panel! 📣 [11/2023] I will serve as a PC on the Research Track of ASE 2024! 📣 [11/2023] I will serve as a PC on the Research Track of ICSE 2025! 📣 [09/2023] I will serve as a member for GCCIS PhD Curriculum Committee! 📣 [08/2023] Paper accepted at TOSEM! 📣 [08/2023] I will serve as a grant reviewer for Canada Foundation for Innovation (CFI)! 📣 [07/2023] I will serve as a PC on the Technical Papers Track of MSR 2024! 📣 [07/2023] I will serve as a PC on the Research Track of ICPE 2024! 📣 [07/2023] I will serve as a PC on the Research Papers Track of SANER 2024! 📣 [05/2023] I will serve as a PC on the Research Papers Track of ASE 2023! 📣 [05/2023] I will serve as a PC of PROMISE 2023! 📣 [05/2023] Paper accepted at FSE 2023! . ",
+    "content": "📣 [04/2024] I will serve as as a PC on the Research Papers Track of ISSTA 2025! 📣 [12/2023] I will serve as a publicity chair for PROMISE 2024! 📣 [12/2023] I will serve on an NSF review panel! 📣 [11/2023] I will serve as a PC on the Research Track of ASE 2024! 📣 [11/2023] I will serve as a PC on the Research Track of ICSE 2025! 📣 [09/2023] I will serve as a member for GCCIS PhD Curriculum Committee! 📣 [08/2023] Paper accepted at TOSEM! 📣 [08/2023] I will serve as a grant reviewer for Canada Foundation for Innovation (CFI)! 📣 [07/2023] I will serve as a PC on the Technical Papers Track of MSR 2024! 📣 [07/2023] I will serve as a PC on the Research Track of ICPE 2024! 📣 [07/2023] I will serve as a PC on the Research Papers Track of SANER 2024! 📣 [05/2023] I will serve as a PC on the Research Papers Track of ASE 2023! 📣 [05/2023] I will serve as a PC of PROMISE 2023! 📣 [05/2023] Paper accepted at FSE 2023! . ",
     "url": "/#news",
     
     "relUrl": "/#news"
-  },"10": {
+  },"11": {
     "doc": "Home",
     "title": "Contact",
     "content": "| yxtvse@rit.edu Yiming Tang YimingTang7 | Internet Provider | . ",
     "url": "/#contact",
     
     "relUrl": "/#contact"
-  },"11": {
+  },"12": {
     "doc": "Home",
     "title": "Home",
     "content": ". ",
     "url": "/",
     
     "relUrl": "/"
-  },"12": {
+  },"13": {
     "doc": "Publications",
     "title": "Publications",
     "content": ". | Zishuo Ding, Yiming Tang, Xiaoyu Cheng, Heng Li, Weiyi Shang. LoGenText-Plus: Improving Neural Machine Translation-based Logging Texts Generation with Syntactic Templates. ACM Transactions on Software Engineering and Methodology. PDF | . | Jinfu Chen, Zishuo Ding, Yiming Tang, Mohammed Sayagh, Heng Li, Bram Adams and Weiyi Shang. IoPV: On Inconsistent Option Performance Variations. In ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE ’23. PDF | . | Jianchen Zhao, Yiming Tang, Sneha Sunil, Weiyi Shang. Studying and complementing the use of identifiers in logs. In International Conference on Software Analysis, Evolution and Reengineering, SANER ’23. PDF | . | Zishuo Ding, Yiming Tang, Yang Li, Heng Li, Weiyi Shang. On the temporal relations between logging and code. In International Conference on Software Engineering, ICSE ’23. PDF | . | Hetong Dai, Yiming Tang, Heng Li, Weiyi Shang. PILAR: Studying and mitigating the influence of configurations on log parsing. In International Conference on Software Engineering, ICSE ’23. PDF | . | Mostafa Jangali, Yiming Tang, Niclas Alexandersson, Philipp Leitner, Jinqiu Yang and Weiyi Shang. Automated generation and evaluation of JMH microbenchmark suites from unit tests. IEEE Transactions on Software Engineering. Presented at International Conference on Software Engineering (ICSE ’23) journal-first track. PDF | . | Haonan Zhang, Yiming Tang, Maxime Lamothe, Heng Li, and Weiyi Shang. Studying logging practice in test code. Empirical Software Engineering. Presented at the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE ’22) journal-first track. PDF | . | Yiming Tang, Allan Spektor, Raffi Khatchadourian, and Mehdi Bagherzadeh. A Tool for Rejuvenating Feature Logging Levels via Git Histories and Degree of Interest. In International Conference on Software Engineering, ICSE ’22. Demonstrations Track. PDF | . | Yiming Tang, Allan Spektor, Raffi Khatchadourian, and Mehdi Bagherzadeh. Automated evolution of feature logging statement levels using Git histories and degree of interest. Science of Computer Programming. Presented at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER ’22) journal-first track. PDF | . | Yiming Tang, Raffi Khatchadourian, Mehdi Bagherzadeh, Rhia Singh, Ajani Stewart, and Anita Raja. An empirical study of refactorings and technical debt in Machine Learning systems. In International Conference on Software Engineering, ICSE ’21. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Baishakhi Ray. An empirical study on the use and misuse of Java 8 streams. In Fundamental Approaches to Software Engineering, FASE ’20. 🏆 EAPLS Best Paper Award. PDF | . | Raffi Khatchadourian, Yiming Tang, and Mehdi Bagherzadeh. Safe automated refactoring for intelligent parallelization of Java 8 streams. Science of Computer Programming. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Syed Ahmed. Safe automated refactoring for intelligent parallelization of Java 8 streams. In International Conference on Software Engineering, ICSE ’19. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Syed Ahmed. A tool for optimizing Java 8 stream software via automated refactoring. In International Working Conference on Source Code Analysis and Manipulation, IEEE SCAM ’18. Engineering Track. 🏆 Distinguished Paper Award. PDF | . | Yiming Tang, Raffi Khatchadourian, Mehdi Bagherzadeh, and Syed Ahmed. Towards safe refactoring for intelligent parallelization of Java 8 streams. In International Conference on Software Engineering, ICSE ’18. Poster Track. PDF | . ",
     "url": "/info/publications/",
     
     "relUrl": "/info/publications/"
-  },"13": {
+  },"14": {
     "doc": "Services",
     "title": "Services",
     "content": ". ",
     "url": "/info/services/",
     
     "relUrl": "/info/services/"
-  },"14": {
+  },"15": {
     "doc": "Services",
     "title": "Program Committee Member",
-    "content": "| The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, 2025 | . | ACM/SPEC International Conference on Performance Engineering (ICPE) • Research Track, 2024 • Data Challenge Track, 2022 | . | IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, 2023, 2024 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, 2023 | . | The International Conference on Mining Software Repositories (MSR), Technical Track, 2023, 2024 | . | The International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results, Vision and Reflection Papers Track, 2023 | . | IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), Research Track, 2023 | . | The International Workshop on Load Testing and Benchmarking of Software Systems (LTB), 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) • Research Papers Track, 2024 • RENE Track, 2023 | . | IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft), Technical Papers Track, 2022, 2023 | . | The International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2021, 2022, 2023 | . | The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), Artifact Evaluation Track, 2022 | . ",
+    "content": "| The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) • Research Papers Track, 2025 • Artifact Evaluation Track, 2022 | . | ACM/SPEC International Conference on Performance Engineering (ICPE) • Research Track, 2024 • Emerging Research Track, 2024 • Data Challenge Track, 2022 | . | The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, 2025 | . | IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, 2023, 2024 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, 2023 | . | The International Conference on Mining Software Repositories (MSR), Technical Track, 2023, 2024 | . | The International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results, Vision and Reflection Papers Track, 2023 | . | IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), Research Track, 2023 | . | The International Workshop on Load Testing and Benchmarking of Software Systems (LTB), 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) • Research Papers Track, 2024 • RENE Track, 2023 | . | IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft), Technical Papers Track, 2022, 2023 | . | The International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2021, 2022, 2023, 2024 | . ",
     "url": "/info/services/#program-committee-member",
     
     "relUrl": "/info/services/#program-committee-member"
-  },"15": {
+  },"16": {
     "doc": "Services",
     "title": "Journal Reviewer",
-    "content": "| IEEE Transactions on Software Engineering (TSE), 2021, 2023, 2024 | . | Empirical Software Engineering (EMSE), 2021, 2022, 2023 | . | Journal of System and Software (JSS), 2022, 2023 | . | Information and Software Technology (IST) 2022, 2023 | . | Journal of Parallel and Distributed Computing (JPDC), 2023 | . ",
+    "content": "| IEEE Transactions on Software Engineering (TSE), 2021, 2023, 2024 | . | Empirical Software Engineering (EMSE), 2021, 2022, 2023, 2024 | . | Journal of System and Software (JSS), 2022, 2023 | . | Information and Software Technology (IST) 2022, 2023 | . | Journal of Parallel and Distributed Computing (JPDC), 2023 | . ",
     "url": "/info/services/#journal-reviewer",
     
     "relUrl": "/info/services/#journal-reviewer"
-  },"16": {
+  },"17": {
     "doc": "Services",
     "title": "Grant Reviewer",
     "content": "| Canada Foundation for Innovation (CFI), 2023 | . | U.S. National Science Foundation (NSF), 2024 | . ",
     "url": "/info/services/#grant-reviewer",
     
     "relUrl": "/info/services/#grant-reviewer"
-  },"17": {
-    "doc": "Services",
-    "title": "Guest Editor",
-    "content": "| Special Issue in ACM Transactions on Software Engineering and Methodology (TOSEM), 2024 | . ",
-    "url": "/info/services/#guest-editor",
-    
-    "relUrl": "/info/services/#guest-editor"
   },"18": {
     "doc": "Services",
     "title": "Publicity Chair",
