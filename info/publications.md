@@ -24,3 +24,9 @@ nav_order: 2
 |Raffi Khatchadourian, **Yiming Tang**, Mehdi Bagherzadeh, and Syed Ahmed. Safe automated refactoring for intelligent parallelization of Java 8 streams. In *International Conference on Software Engineering*, ICSE ’19. [PDF](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1521&context=hc_pubs)|
 |Raffi Khatchadourian, **Yiming Tang**, Mehdi Bagherzadeh, and Syed Ahmed. A tool for optimizing Java 8 stream software via automated refactoring. In *International Working Conference on Source Code Analysis and Manipulation*, IEEE SCAM ’18. Engineering Track. 🏆 **Distinguished Paper Award**. [PDF](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1475&context=hc_pubs)|
 |**Yiming Tang**, Raffi Khatchadourian, Mehdi Bagherzadeh, and Syed Ahmed. Towards safe refactoring for intelligent parallelization of Java 8 streams. In *International Conference on Software Engineering*, ICSE ’18. Poster Track. [PDF](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1403&context=hc_pubs)|
+
+# Students' Publications under My Supervision
+
+----
+
+|Zhiyuan Chen. Studying Privacy Leaks in Android App Logs. In *The ACM International Conference on the Foundations of Software Engineering (FSE)*, FSE ’24. Student Research Competition Track. [PDF](https://dl.acm.org/doi/10.1145/3663529.3664461) |
