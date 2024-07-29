@@ -31,6 +31,7 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
+📣 [07/2024] I will serve as as a Sponsorship Co-Chair for [FSE 2025](https://conf.researchr.org/home/fse-2025)! Any organization or company that wants to support FSE 2025, please feel free to contact me. <br/><br/>
 📣 [04/2024] I will serve as as a PC on the Research Papers Track of [ISSTA 2025](https://conf.researchr.org/track/issta-2025/issta-2025-papers)! <br/><br/>
 📣 [12/2023] I will serve as a publicity chair for [PROMISE 2024](https://promiseconf.github.io/2024/index.html)! <br/><br/>
 📣 [12/2023] I will serve on an [NSF](https://www.nsf.gov/) review panel! <br/><br/>
