@@ -30,3 +30,4 @@ nav_order: 2
 ----
 
 |Zhiyuan Chen. Studying Privacy Leaks in Android App Logs. In *The ACM International Conference on the Foundations of Software Engineering (FSE)*, FSE ’24. Student Research Competition Track. [PDF](https://dl.acm.org/doi/10.1145/3663529.3664461) |
+|Zhiyuan Chen. A Comprehensive Study of Privacy Leakage Vulnerability in Android App Logs. In *The IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Doctoral Symposium. To appear. |
