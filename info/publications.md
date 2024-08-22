@@ -9,6 +9,7 @@ nav_order: 2
 
 ----
 
+|Zhiyuan Chen,  Soham Sanjay Deo, Poorna Chander Reddy Puttaparthi, **Yiming Tang**,  Xueling Zhang, Weiyi Shang. From Logging to Leakage: A Study of Privacy Leakage in Android App Logs. In *IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Poster Track. To appear. |
 |Zishuo Ding, **Yiming Tang**, Xiaoyu Cheng, Heng Li, Weiyi Shang. LoGenText-Plus: Improving Neural Machine Translation-based Logging Texts Generation with Syntactic Templates. *ACM Transactions on Software Engineering and Methodology*. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/Ding_TOSEM.pdf) |
 |Jinfu Chen, Zishuo Ding, **Yiming Tang**, Mohammed Sayagh, Heng Li, Bram Adams and Weiyi Shang. IoPV: On Inconsistent Option Performance Variations. In *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, ESEC/FSE ’23. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/FSE_2023_JINFU.pdf) |
 |Jianchen Zhao, **Yiming Tang**, Sneha Sunil, Weiyi Shang. Studying and complementing the use of identifiers in logs. In *International Conference on Software Analysis, Evolution and Reengineering*, SANER ’23. [PDF](https://users.encs.concordia.ca/~shang/pubs/SANER2023_Jianchen.pdf)| 
