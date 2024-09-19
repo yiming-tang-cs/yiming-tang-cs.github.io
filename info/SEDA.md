@@ -26,9 +26,11 @@ SEDA Lab is located in the Software Engineering Department at RIT. SEDA has a fu
 
 Zhiyuan Chen
 
-<!-- <br>
+<br>
 #### Master's 
- -->
+
+Love Jayesh Ahir
+Vanessa Nava-Camal
 
 
 ## Past Research Students
