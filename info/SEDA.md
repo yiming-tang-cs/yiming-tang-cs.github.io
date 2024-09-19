@@ -29,7 +29,7 @@ Zhiyuan Chen
 <br>
 #### Master's 
 
-Love Jayesh Ahir
+Love Jayesh Ahir <br>
 Vanessa Nava-Camal
 
 
