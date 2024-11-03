@@ -8,7 +8,7 @@
   },"1": {
     "doc": "SEDA Lab",
     "title": "Current Research Students",
-    "content": ". Ph.D. Zhiyuan Chen . ",
+    "content": ". Ph.D. Zhiyuan Chen . Master’s . Love Jayesh Ahir Vanessa Nava-Camal . ",
     "url": "/info/SEDA/#current-research-students",
     
     "relUrl": "/info/SEDA/#current-research-students"
@@ -113,14 +113,14 @@
   },"16": {
     "doc": "Services",
     "title": "Program Committee Member",
-    "content": "| The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) • Research Papers Track, 2025 • Artifact Evaluation Track, 2022 | . | ACM/SPEC International Conference on Performance Engineering (ICPE) • Research Track, 2024 • Emerging Research Track, 2024 • Data Challenge Track, 2022 | . | The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, 2025 | . | IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, 2023, 2024 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, 2023 | . | The International Conference on Mining Software Repositories (MSR), Technical Track, 2023, 2024, 2025 | . | The International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results, Vision and Reflection Papers Track, 2023 | . | IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), Research Track, 2023 | . | The International Workshop on Load Testing and Benchmarking of Software Systems (LTB), 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) • Research Papers Track, 2024 • RENE Track, 2023 | . | IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft), Technical Papers Track, 2022, 2023 | . | The International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2021, 2022, 2023, 2024 | . ",
+    "content": "| The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) • Research Papers Track, 2025 • Artifact Evaluation Track, 2022 | . | ACM/SPEC International Conference on Performance Engineering (ICPE) • Research Track, 2024, 2025 • Emerging Research Track, 2024 • Data Challenge Track, 2022 | . | The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, 2025 | . | IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, 2023, 2024 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, 2023 | . | The International Conference on Mining Software Repositories (MSR), Technical Track, 2023, 2024, 2025 | . | The International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results, Vision and Reflection Papers Track, 2023 | . | IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), Research Track, 2023 | . | The International Workshop on Load Testing and Benchmarking of Software Systems (LTB), 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) • Research Papers Track, 2024 • RENE Track, 2023 | . | IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft), Technical Papers Track, 2022, 2023 | . | The International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2021, 2022, 2023, 2024 | . ",
     "url": "/info/services/#program-committee-member",
     
     "relUrl": "/info/services/#program-committee-member"
   },"17": {
     "doc": "Services",
     "title": "Journal Reviewer",
-    "content": "| IEEE Transactions on Software Engineering (TSE), 2021, 2023, 2024 | . | Empirical Software Engineering (EMSE), 2021, 2022, 2023, 2024 | . | Journal of System and Software (JSS), 2022, 2023 | . | Information and Software Technology (IST) 2022, 2023 | . | Journal of Parallel and Distributed Computing (JPDC), 2023 | . ",
+    "content": "| ACM Transactions on Autonomous and Adaptive Systems (TAAS), 2024 | . | IEEE Transactions on Software Engineering (TSE), 2021, 2023, 2024 | . | Empirical Software Engineering (EMSE), 2021, 2022, 2023, 2024 | . | Journal of System and Software (JSS), 2022, 2023 | . | Information and Software Technology (IST) 2022, 2023 | . | Journal of Parallel and Distributed Computing (JPDC), 2023 | . ",
     "url": "/info/services/#journal-reviewer",
     
     "relUrl": "/info/services/#journal-reviewer"
@@ -148,7 +148,7 @@
   },"21": {
     "doc": "Services",
     "title": "Session Chair",
-    "content": "| The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Log Analysis and Debugging, 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Empirical Study, 2023 | . | ACM/SPEC International Conference on Performance Engineering (ICPE), Hardware Performance, 2022 | . ",
+    "content": "| IEEE/ACM International Conference on Automated Software Engineering (ASE) • Log and Trace; Failure and Fault, 2024 • Vulnerability and Security 2, 2024 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Log Analysis and Debugging, 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Empirical Study, 2023 | . | ACM/SPEC International Conference on Performance Engineering (ICPE), Hardware Performance, 2022 | . ",
     "url": "/info/services/#session-chair",
     
     "relUrl": "/info/services/#session-chair"
@@ -190,7 +190,7 @@
   },"27": {
     "doc": "Teaching",
     "title": "Teaching at RIT",
-    "content": "| Model-Driven Development | Fall 2024 | . | Collaborative Software Development | Spring 2024 | . | Introduction to Software Engineering | Fall 2023 | . ",
+    "content": "| Collaborative Software Development | Spring 2025 | . | Model-Driven Development | Fall 2024 | . | Collaborative Software Development | Spring 2024 | . | Introduction to Software Engineering | Fall 2023 | . ",
     "url": "/info/teaching/#teaching-at-rit",
     
     "relUrl": "/info/teaching/#teaching-at-rit"

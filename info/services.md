@@ -12,7 +12,7 @@ nav_order: 3
 ## Program Committee Member
 
 | The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) <br/> •  Research Papers Track, [2025](https://conf.researchr.org/track/issta-2025/issta-2025-papers) <br/> • Artifact Evaluation Track, [2022](https://conf.researchr.org/track/issta-2022/issta-2022-artifact-evaluation) |
-| ACM/SPEC International Conference on Performance Engineering (ICPE) <br/> • Research Track, [2024](https://icpe2024.spec.org/) <br/> • Emerging Research Track, [2024](https://icpe2024.spec.org/tracks-and-submissions/) <br/> • Data Challenge Track, [2022](https://icpe2022.spec.org/tracks-and-submissions/data-challenge-track/) |
+| ACM/SPEC International Conference on Performance Engineering (ICPE) <br/> • Research Track, [2024](https://icpe2024.spec.org/), [2025](https://icpe2025.spec.org/tracks-and-submissions/research-paper-track/) <br/> • Emerging Research Track, [2024](https://icpe2024.spec.org/tracks-and-submissions/) <br/> • Data Challenge Track, [2022](https://icpe2022.spec.org/tracks-and-submissions/data-challenge-track/) |
 | The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, [2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)| 
 | IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, [2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers?), [2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)| 
 | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, [2023](https://2023.esec-fse.org/track/fse-2023-research-papers)| 
@@ -26,6 +26,7 @@ nav_order: 3
 
 ## Journal Reviewer
 
+| ACM Transactions on Autonomous and Adaptive Systems ([TAAS](https://dl.acm.org/journal/taas)), 2024| 
 | IEEE Transactions on Software Engineering ([TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)), 2021, 2023, 2024| 
 | Empirical Software Engineering ([EMSE](https://www.springer.com/journal/10664)), 2021, 2022, 2023, 2024 | 
 | Journal of System and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), 2022, 2023 | 
@@ -47,6 +48,7 @@ nav_order: 3
 
 ## Session Chair
 
+| IEEE/ACM International Conference on Automated Software Engineering (ASE)<br/> •  Log and Trace; Failure and Fault, [2024](https://conf.researchr.org/program/ase-2024/program-ase-2024/) <br/> •  Vulnerability and Security 2, [2024](https://conf.researchr.org/program/ase-2024/program-ase-2024/)| 
 | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE](https://2023.esec-fse.org/)), Log Analysis and Debugging, 2023 | 
 | IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER](https://saner2023.must.edu.mo/)), Empirical Study, 2023 |
 | ACM/SPEC International Conference on Performance Engineering ([ICPE](https://icpe2022.spec.org/)), Hardware Performance, 2022 |
