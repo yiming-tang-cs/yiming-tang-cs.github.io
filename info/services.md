@@ -63,6 +63,7 @@ nav_order: 3
 ## Departmental/College/University Service
 
 |[GCCIS PhD Curriculum Committee](https://www.rit.edu/computing/phd-computing-and-information-sciences/resources), 2023-2025|
+| Outstanding Scholar Committee, 2024-2025|
 
 -------
 
