@@ -35,8 +35,9 @@ nav_order: 3
 
 ## Grant Reviewer
 
-|Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), 2023|
+|Natural Sciences and Engineering Research Council of Canada ([NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)), 2024|
 |U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), 2024|
+|Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), 2023|
 
 ## Publicity Co-Chair
 
