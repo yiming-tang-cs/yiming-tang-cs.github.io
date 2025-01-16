@@ -31,14 +31,10 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
-📣 [07/2024] I will serve as as a Sponsorship Co-Chair for [FSE 2025](https://conf.researchr.org/home/fse-2025)! Any organization or company that wants to support FSE 2025, please feel free to contact me. <br/><br/>
-📣 [04/2024] I will serve as as a PC on the Research Papers Track of [ISSTA 2025](https://conf.researchr.org/track/issta-2025/issta-2025-papers)! <br/><br/>
-📣 [12/2023] I will serve as a publicity chair for [PROMISE 2024](https://promiseconf.github.io/2024/index.html)! <br/><br/>
-📣 [12/2023] I will serve on an [NSF](https://www.nsf.gov/) review panel! <br/><br/>
-📣 [11/2023] I will serve as a PC on the Research Track of [ASE 2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)! <br/><br/>
-📣 [11/2023] I will serve as a PC on the Research Track of [ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track)! <br/><br/>
-📣 [09/2023] I will serve as a member for [GCCIS PhD Curriculum Committee](https://www.rit.edu/computing/phd-computing-and-information-sciences/resources)! <br/><br/>
-📣 [08/2023] Paper accepted at [TOSEM](https://dl.acm.org/journal/tosem)! <br/>
+📣 [01/2025] Paper accepted at [ICST ’25](https://conf.researchr.org/track/icst-2025/icst-2025-short-vision-emerging-results) Short Papers, Vision and Emerging Results Track.  <br/><br/>
+📣 [01/2025] I will serve as as a PC chair of [PROMISE 2025](https://conf.researchr.org/home/promise-2025)! Please feel free to contribute! <br/><br/>
+📣 [01/2025] I will serve as as a PC on the Research Papers Track of [ICSE 2026](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)! <br/><br/>
+📣 [07/2024] I will serve as as a Sponsorship Co-Chair for [FSE 2025](https://conf.researchr.org/home/fse-2025)! Any organization or company that wants to support FSE 2025, please feel free to contact me. <br/>
 {: .fs-3 .ls-10 .code-example }
 
 

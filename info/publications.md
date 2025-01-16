@@ -9,7 +9,8 @@ nav_order: 2
 
 ----
 
-|Zhiyuan Chen,  Soham Sanjay Deo, Poorna Chander Reddy Puttaparthi, **Yiming Tang**,  Xueling Zhang, Weiyi Shang. From Logging to Leakage: A Study of Privacy Leakage in Android App Logs. In *IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Poster Track. To appear. |
+|Mostafa Jangali, Kundi Yao, **Yiming Tang**, Diego Elias Costa and Weiyi Shang. Batch Execution of Microbenchmarks for Efficient Performance Testing. In *IEEE International Conference on Software Testing, Verification and Validation*, ICST ’25. Short Papers, Vision and Emerging Results Track. To appear.|
+|Zhiyuan Chen,  Soham Sanjay Deo, Poorna Chander Reddy Puttaparthi, **Yiming Tang**,  Xueling Zhang, Weiyi Shang. From Logging to Leakage: A Study of Privacy Leakage in Android App Logs. In *IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Poster Track. [PDF](https://dl.acm.org/doi/10.1145/3691620.3695340) |
 |Zishuo Ding, **Yiming Tang**, Xiaoyu Cheng, Heng Li, Weiyi Shang. LoGenText-Plus: Improving Neural Machine Translation-based Logging Texts Generation with Syntactic Templates. *ACM Transactions on Software Engineering and Methodology*. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/Ding_TOSEM.pdf) |
 |Jinfu Chen, Zishuo Ding, **Yiming Tang**, Mohammed Sayagh, Heng Li, Bram Adams and Weiyi Shang. IoPV: On Inconsistent Option Performance Variations. In *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, ESEC/FSE ’23. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/FSE_2023_JINFU.pdf) |
 |Jianchen Zhao, **Yiming Tang**, Sneha Sunil, Weiyi Shang. Studying and complementing the use of identifiers in logs. In *International Conference on Software Analysis, Evolution and Reengineering*, SANER ’23. [PDF](https://users.encs.concordia.ca/~shang/pubs/SANER2023_Jianchen.pdf)| 
@@ -26,9 +27,9 @@ nav_order: 2
 |Raffi Khatchadourian, **Yiming Tang**, Mehdi Bagherzadeh, and Syed Ahmed. A tool for optimizing Java 8 stream software via automated refactoring. In *International Working Conference on Source Code Analysis and Manipulation*, IEEE SCAM ’18. Engineering Track. 🏆 **Distinguished Paper Award**. [PDF](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1475&context=hc_pubs)|
 |**Yiming Tang**, Raffi Khatchadourian, Mehdi Bagherzadeh, and Syed Ahmed. Towards safe refactoring for intelligent parallelization of Java 8 streams. In *International Conference on Software Engineering*, ICSE ’18. Poster Track. [PDF](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1403&context=hc_pubs)|
 
-# Students' Publications under My Supervision
+## Publications by Students as Single Authors under My Supervision
 
 ----
 
 |Zhiyuan Chen. Studying Privacy Leaks in Android App Logs. In *The ACM International Conference on the Foundations of Software Engineering (FSE)*, FSE ’24. Student Research Competition Track. [PDF](https://dl.acm.org/doi/10.1145/3663529.3664461) |
-|Zhiyuan Chen. A Comprehensive Study of Privacy Leakage Vulnerability in Android App Logs. In *The IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Doctoral Symposium. To appear. |
+|Zhiyuan Chen. A Comprehensive Study of Privacy Leakage Vulnerability in Android App Logs. In *The IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Doctoral Symposium. [PDF](https://dl.acm.org/doi/pdf/10.1145/3691620.3695609) |
