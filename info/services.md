@@ -15,7 +15,7 @@ nav_order: 3
 | ACM/SPEC International Conference on Performance Engineering (ICPE) <br/> • Research Track, [2024](https://icpe2024.spec.org/), [2025](https://icpe2025.spec.org/tracks-and-submissions/research-paper-track/) <br/> • Emerging Research Track, [2024](https://icpe2024.spec.org/tracks-and-submissions/) <br/> • Data Challenge Track, [2022](https://icpe2022.spec.org/tracks-and-submissions/data-challenge-track/) |
 | International Workshop on DevOps for Sustainability (DevOpsSustain), [2025](https://devopssustain.github.io/ws2025/) |
 | The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, [2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track), [2026](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)| 
-| IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, [2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers?), [2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)| 
+| IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, [2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers?), [2024](https://conf.researchr.org/track/ase-2024/ase-2024-research), [2025](https://conf.researchr.org/track/ase-2025/ase-2025-papers)| 
 | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, [2023](https://2023.esec-fse.org/track/fse-2023-research-papers)| 
 | The International Conference on Mining Software Repositories (MSR), Technical Track, [2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers), [2024](https://2024.msrconf.org/track/msr-2024-technical-papers), [2025](https://2025.msrconf.org/track/msr-2025-technical-papers)| 
 | The International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results, Vision and Reflection Papers Track, [2023](https://conf.researchr.org/track/esem-2023/esem-2023-emerging-results-vision-and-reflection-papers)| 
@@ -27,6 +27,7 @@ nav_order: 3
 
 ## Journal Reviewer
 
+| IEEE Software ([IEEE Softw.](https://www.computer.org/csdl/magazine/so)), 2025|
 | Computer Science Review ([Comput. Sci. Rev.](https://www.sciencedirect.com/journal/computer-science-review)), 2025|
 | ACM Transactions on Software Engineering and Methodology ([TOSEM](https://dl.acm.org/journal/tosem)), 2025|
 | ACM Transactions on Autonomous and Adaptive Systems ([TAAS](https://dl.acm.org/journal/taas)), 2024, 2025| 
@@ -39,7 +40,7 @@ nav_order: 3
 ## Grant Reviewer
 
 |Natural Sciences and Engineering Research Council of Canada ([NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)), 2024|
-|U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), 2024|
+|U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), 2024, 2025|
 |Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), 2023|
 
 ## PC Chair
