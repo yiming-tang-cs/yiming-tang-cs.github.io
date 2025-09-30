@@ -9,7 +9,8 @@ nav_order: 2
 
 ----
 
-|An Chen, Kundi Yao, Haonan Zhang, **Yiming Tang**, and Weiyi Shang. An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems. In *IEEE International Conference on Software Quality, Reliability, and Security*, QRS ’25. To appear.|
+|Zhiyuan Chen, Vanessa Nava-Camal, Tiash Roy, Zhe Li, **Yiming Tang**, Xueling Zhang and Haibo Yang. Exploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study. *IEEE Software*. To appear.|
+|An Chen, Kundi Yao, Haonan Zhang, **Yiming Tang**, and Weiyi Shang. An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems. In *IEEE International Conference on Software Quality, Reliability, and Security*, QRS ’25. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/QRS2025_AnChen.pdf).|
 |Ahmad D. Suleiman, **Yiming Tang**, Daqing Hou. Factors Impacting Faculty Adoption of Project-Based Learning in Computing Education: a Survey. In *Frontiers in Education Conference*, FIE ’25. To appear.|
 |Mostafa Jangali, Kundi Yao, **Yiming Tang**, Diego Elias Costa and Weiyi Shang. Batch Execution of Microbenchmarks for Efficient Performance Testing. In *IEEE International Conference on Software Testing, Verification and Validation*, ICST ’25. Short Papers, Vision and Emerging Results Track. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/MOSTAFA_ICST_2025.pdf)|
 |Zhiyuan Chen,  Soham Sanjay Deo, Poorna Chander Reddy Puttaparthi, **Yiming Tang**,  Xueling Zhang and Weiyi Shang. From Logging to Leakage: A Study of Privacy Leakage in Android App Logs. In *IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Poster Track. [PDF](https://dl.acm.org/doi/10.1145/3691620.3695340) |

@@ -31,6 +31,7 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
+📣 [09/2025] Paper accepted at [IEEE Software](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52).   <br/><br/>
 📣 [05/2025] Paper accepted at [QRS ’25](https://qrs25.techconf.org/).   <br/><br/>
 📣 [05/2025] Paper accepted at [FIE ’25](https://2025.fie-conference.org/). <br/><br/>
 📣 [01/2025] Paper accepted at [ICST ’25](https://conf.researchr.org/track/icst-2025/icst-2025-short-vision-emerging-results) Short Papers, Vision and Emerging Results Track.  <br/><br/>
