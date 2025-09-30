@@ -13,7 +13,7 @@ nav_order: 3
 
 | IEEE International Conference on Collaborative Advances in Software and Computing (CASCON), Poster Track [2025](https://conf.researchr.org/track/cascon-2025/posters-track) |
 | The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) <br/> •  Research Papers Track, [2025](https://conf.researchr.org/track/issta-2025/issta-2025-papers) <br/> • Artifact Evaluation Track, [2022](https://conf.researchr.org/track/issta-2022/issta-2022-artifact-evaluation) |
-| ACM/SPEC International Conference on Performance Engineering (ICPE) <br/> • Research Track, [2024](https://icpe2024.spec.org/), [2025](https://icpe2025.spec.org/tracks-and-submissions/research-paper-track/) <br/> • Emerging Research Track, [2024](https://icpe2024.spec.org/tracks-and-submissions/) <br/> • Data Challenge Track, [2022](https://icpe2022.spec.org/tracks-and-submissions/data-challenge-track/) |
+| ACM/SPEC International Conference on Performance Engineering (ICPE) <br/> • Research Track, [2024](https://icpe2024.spec.org/), [2025](https://icpe2025.spec.org/tracks-and-submissions/research-paper-track/), [2026](https://icpe2026.spec.org/tracks-and-submissions/research-paper-track/) <br/> • Emerging Research Track, [2024](https://icpe2024.spec.org/tracks-and-submissions/) <br/> • Data Challenge Track, [2022](https://icpe2022.spec.org/tracks-and-submissions/data-challenge-track/) |
 | International Workshop on DevOps for Sustainability (DevOpsSustain), [2025](https://devopssustain.github.io/ws2025/) |
 | The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, [2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track), [2026](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)| 
 | IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, [2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers?), [2024](https://conf.researchr.org/track/ase-2024/ase-2024-research), [2025](https://conf.researchr.org/track/ase-2025/ase-2025-papers)| 
@@ -73,7 +73,7 @@ nav_order: 3
 
 ## Departmental/College/University Service
 
-|[GCCIS PhD Curriculum Committee](https://www.rit.edu/computing/phd-computing-and-information-sciences/resources), 2023-2025|
+|[GCCIS PhD Curriculum Committee](https://www.rit.edu/computing/phd-computing-and-information-sciences/resources), 2023-2026|
 | Outstanding Scholar Committee, 2024-2025|
 | GCCIS Faculty Search Committee, 2024-2025 |
 | Faculty Performance Evaluation Committee, 2025|
