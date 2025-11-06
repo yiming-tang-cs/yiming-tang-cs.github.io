@@ -9,7 +9,7 @@ nav_order: 2
 
 ----
 
-|Zhiyuan Chen, Vanessa Nava-Camal, Tiash Roy, Zhe Li, **Yiming Tang**, Xueling Zhang and Haibo Yang. Exploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study. *IEEE Software*. To appear.|
+|Zhiyuan Chen, Vanessa Nava-Camal, Tiash Roy, Zhe Li, **Yiming Tang**, Xueling Zhang and Haibo Yang. Exploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study. *IEEE Software*. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11203817).|
 |An Chen, Kundi Yao, Haonan Zhang, **Yiming Tang**, and Weiyi Shang. An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems. In *IEEE International Conference on Software Quality, Reliability, and Security*, QRS ’25. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/QRS2025_AnChen.pdf).|
 |Ahmad D. Suleiman, **Yiming Tang**, Daqing Hou. Factors Impacting Faculty Adoption of Project-Based Learning in Computing Education: a Survey. In *Frontiers in Education Conference*, FIE ’25. [PDF](https://arxiv.org/pdf/2507.18039).|
 |Mostafa Jangali, Kundi Yao, **Yiming Tang**, Diego Elias Costa and Weiyi Shang. Batch Execution of Microbenchmarks for Efficient Performance Testing. In *IEEE International Conference on Software Testing, Verification and Validation*, ICST ’25. Short Papers, Vision and Emerging Results Track. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/MOSTAFA_ICST_2025.pdf)|

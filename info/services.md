@@ -44,6 +44,13 @@ nav_order: 3
 |U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), 2024, 2025|
 |Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), 2023|
 
+## Review Committee
+| IEEE Transactions on Software Engineering ([TSE](https://dl.acm.org/journal/tosem/editorial-board)), 2025| 
+
+## Workshop Organizer
+
+| Workshop on Embodied and Safe-Assured Robotic Systems (in conjunction with NeurIPS 2025), [2025](https://e-sars.github.io/)|
+
 ## PC Chair
 
 | International Conference on Predictive Models and Data Analytics in Software Engineering ([PROMISE](https://conf.researchr.org/home/promise-2025)), 2025 |
