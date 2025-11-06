@@ -46,7 +46,7 @@ nav_order: 3
 
 ## Review Committee
 
-| IEEE Transactions on Software Engineering ([TSE](https://dl.acm.org/journal/tosem/editorial-board)), 2025| 
+| ACM Transactions on Software Engineering and Methodology ([TOSEM](https://dl.acm.org/journal/tosem/editorial-board)), 2025| 
 
 ## Workshop Organizer
 

@@ -31,7 +31,7 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
-📣 [11/2025] I will serve on the review committee of [TSE](https://dl.acm.org/journal/tosem/editorial-board).   <br/><br/>
+📣 [11/2025] I will serve on the review committee of [TOSEM](https://dl.acm.org/journal/tosem/editorial-board).   <br/><br/>
 📣 [09/2025] Paper accepted at [IEEE Software](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52).   <br/><br/>
 📣 [05/2025] Paper accepted at [QRS ’25](https://qrs25.techconf.org/).   <br/><br/>
 📣 [05/2025] Paper accepted at [FIE ’25](https://2025.fie-conference.org/). <br/><br/>
