@@ -45,6 +45,7 @@ nav_order: 3
 |Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), 2023|
 
 ## Review Committee
+
 | IEEE Transactions on Software Engineering ([TSE](https://dl.acm.org/journal/tosem/editorial-board)), 2025| 
 
 ## Workshop Organizer
