@@ -71,7 +71,7 @@
   },"10": {
     "doc": "Home",
     "title": "News",
-    "content": "📣 [09/2025] Paper accepted at IEEE Software. 📣 [05/2025] Paper accepted at QRS ’25. 📣 [05/2025] Paper accepted at FIE ’25. 📣 [01/2025] Paper accepted at ICST ’25 Short Papers, Vision and Emerging Results Track. 📣 [01/2025] I will serve as as a PC chair of PROMISE 2025! Please feel free to contribute! 📣 [01/2025] I will serve as as a PC on the Research Papers Track of ICSE 2026! 📣 [07/2024] I will serve as as a Sponsorship Co-Chair for FSE 2025! Any organization or company that wants to support FSE 2025, please feel free to contact me. ",
+    "content": "📣 [12/2025] Paper accepted at SANER ’26. 📣 [11/2025] I will serve on the review committee of TOSEM. 📣 [09/2025] Paper accepted at IEEE Software. 📣 [05/2025] Paper accepted at QRS ’25. 📣 [05/2025] Paper accepted at FIE ’25. 📣 [01/2025] Paper accepted at ICST ’25 Short Papers, Vision and Emerging Results Track. 📣 [01/2025] I will serve as as a PC chair of PROMISE 2025! Please feel free to contribute! 📣 [01/2025] I will serve as as a PC on the Research Papers Track of ICSE 2026! . ",
     "url": "/#news",
     
     "relUrl": "/#news"
@@ -92,7 +92,7 @@
   },"13": {
     "doc": "Publications",
     "title": "Publications",
-    "content": ". | Zhiyuan Chen, Vanessa Nava-Camal, Tiash Roy, Zhe Li, Yiming Tang, Xueling Zhang and Haibo Yang. Exploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study. IEEE Software. To appear. | . | An Chen, Kundi Yao, Haonan Zhang, Yiming Tang, and Weiyi Shang. An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems. In IEEE International Conference on Software Quality, Reliability, and Security, QRS ’25. PDF. | . | Ahmad D. Suleiman, Yiming Tang, Daqing Hou. Factors Impacting Faculty Adoption of Project-Based Learning in Computing Education: a Survey. In Frontiers in Education Conference, FIE ’25. PDF. | . | Mostafa Jangali, Kundi Yao, Yiming Tang, Diego Elias Costa and Weiyi Shang. Batch Execution of Microbenchmarks for Efficient Performance Testing. In IEEE International Conference on Software Testing, Verification and Validation, ICST ’25. Short Papers, Vision and Emerging Results Track. PDF | . | Zhiyuan Chen, Soham Sanjay Deo, Poorna Chander Reddy Puttaparthi, Yiming Tang, Xueling Zhang and Weiyi Shang. From Logging to Leakage: A Study of Privacy Leakage in Android App Logs. In IEEE/ACM International Conference on Automated Software Engineering, ASE ’24. Poster Track. PDF | . | Zishuo Ding, Yiming Tang, Xiaoyu Cheng, Heng Li and Weiyi Shang. LoGenText-Plus: Improving Neural Machine Translation-based Logging Texts Generation with Syntactic Templates. ACM Transactions on Software Engineering and Methodology. PDF | . | Jinfu Chen, Zishuo Ding, Yiming Tang, Mohammed Sayagh, Heng Li, Bram Adams and Weiyi Shang. IoPV: On Inconsistent Option Performance Variations. In ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE ’23. PDF | . | Jianchen Zhao, Yiming Tang, Sneha Sunil and Weiyi Shang. Studying and complementing the use of identifiers in logs. In International Conference on Software Analysis, Evolution and Reengineering, SANER ’23. PDF | . | Zishuo Ding, Yiming Tang, Yang Li, Heng Li and Weiyi Shang. On the temporal relations between logging and code. In International Conference on Software Engineering, ICSE ’23. PDF | . | Hetong Dai, Yiming Tang, Heng Li and Weiyi Shang. PILAR: Studying and mitigating the influence of configurations on log parsing. In International Conference on Software Engineering, ICSE ’23. PDF | . | Mostafa Jangali, Yiming Tang, Niclas Alexandersson, Philipp Leitner, Jinqiu Yang and Weiyi Shang. Automated generation and evaluation of JMH microbenchmark suites from unit tests. IEEE Transactions on Software Engineering. Presented at International Conference on Software Engineering (ICSE ’23) journal-first track. PDF | . | Haonan Zhang, Yiming Tang, Maxime Lamothe, Heng Li, and Weiyi Shang. Studying logging practice in test code. Empirical Software Engineering. Presented at the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE ’22) journal-first track. PDF | . | Yiming Tang, Allan Spektor, Raffi Khatchadourian, and Mehdi Bagherzadeh. A Tool for Rejuvenating Feature Logging Levels via Git Histories and Degree of Interest. In International Conference on Software Engineering, ICSE ’22. Demonstrations Track. PDF | . | Yiming Tang, Allan Spektor, Raffi Khatchadourian, and Mehdi Bagherzadeh. Automated evolution of feature logging statement levels using Git histories and degree of interest. Science of Computer Programming. Presented at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER ’22) journal-first track. PDF | . | Yiming Tang, Raffi Khatchadourian, Mehdi Bagherzadeh, Rhia Singh, Ajani Stewart, and Anita Raja. An empirical study of refactorings and technical debt in Machine Learning systems. In International Conference on Software Engineering, ICSE ’21. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Baishakhi Ray. An empirical study on the use and misuse of Java 8 streams. In Fundamental Approaches to Software Engineering, FASE ’20. 🏆 EAPLS Best Paper Award. PDF | . | Raffi Khatchadourian, Yiming Tang, and Mehdi Bagherzadeh. Safe automated refactoring for intelligent parallelization of Java 8 streams. Science of Computer Programming. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Syed Ahmed. Safe automated refactoring for intelligent parallelization of Java 8 streams. In International Conference on Software Engineering, ICSE ’19. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Syed Ahmed. A tool for optimizing Java 8 stream software via automated refactoring. In International Working Conference on Source Code Analysis and Manipulation, IEEE SCAM ’18. Engineering Track. 🏆 Distinguished Paper Award. PDF | . | Yiming Tang, Raffi Khatchadourian, Mehdi Bagherzadeh, and Syed Ahmed. Towards safe refactoring for intelligent parallelization of Java 8 streams. In International Conference on Software Engineering, ICSE ’18. Poster Track. PDF | . ",
+    "content": ". | Yixi Zhao, Kundi Yao, Yiming Tang, Weiyi Shang . An Empirical Study of Privacy Leakage Vulnerability in Third-Party Android Logs Libraries. In IEEE International Conference on Software Analysis, Evolution and Reengineering, SANER ’26. To appear. | . | Zhiyuan Chen, Vanessa Nava-Camal, Tiash Roy, Zhe Li, Yiming Tang, Xueling Zhang and Haibo Yang. Exploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study. IEEE Software. PDF. | . | An Chen, Kundi Yao, Haonan Zhang, Yiming Tang, and Weiyi Shang. An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems. In IEEE International Conference on Software Quality, Reliability, and Security, QRS ’25. PDF. | . | Ahmad D. Suleiman, Yiming Tang, Daqing Hou. Factors Impacting Faculty Adoption of Project-Based Learning in Computing Education: a Survey. In Frontiers in Education Conference, FIE ’25. PDF. | . | Mostafa Jangali, Kundi Yao, Yiming Tang, Diego Elias Costa and Weiyi Shang. Batch Execution of Microbenchmarks for Efficient Performance Testing. In IEEE International Conference on Software Testing, Verification and Validation, ICST ’25. Short Papers, Vision and Emerging Results Track. PDF | . | Zhiyuan Chen, Soham Sanjay Deo, Poorna Chander Reddy Puttaparthi, Yiming Tang, Xueling Zhang and Weiyi Shang. From Logging to Leakage: A Study of Privacy Leakage in Android App Logs. In IEEE/ACM International Conference on Automated Software Engineering, ASE ’24. Poster Track. PDF | . | Zishuo Ding, Yiming Tang, Xiaoyu Cheng, Heng Li and Weiyi Shang. LoGenText-Plus: Improving Neural Machine Translation-based Logging Texts Generation with Syntactic Templates. ACM Transactions on Software Engineering and Methodology. PDF | . | Jinfu Chen, Zishuo Ding, Yiming Tang, Mohammed Sayagh, Heng Li, Bram Adams and Weiyi Shang. IoPV: On Inconsistent Option Performance Variations. In ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE ’23. PDF | . | Jianchen Zhao, Yiming Tang, Sneha Sunil and Weiyi Shang. Studying and complementing the use of identifiers in logs. In International Conference on Software Analysis, Evolution and Reengineering, SANER ’23. PDF | . | Zishuo Ding, Yiming Tang, Yang Li, Heng Li and Weiyi Shang. On the temporal relations between logging and code. In International Conference on Software Engineering, ICSE ’23. PDF | . | Hetong Dai, Yiming Tang, Heng Li and Weiyi Shang. PILAR: Studying and mitigating the influence of configurations on log parsing. In International Conference on Software Engineering, ICSE ’23. PDF | . | Mostafa Jangali, Yiming Tang, Niclas Alexandersson, Philipp Leitner, Jinqiu Yang and Weiyi Shang. Automated generation and evaluation of JMH microbenchmark suites from unit tests. IEEE Transactions on Software Engineering. Presented at International Conference on Software Engineering (ICSE ’23) journal-first track. PDF | . | Haonan Zhang, Yiming Tang, Maxime Lamothe, Heng Li, and Weiyi Shang. Studying logging practice in test code. Empirical Software Engineering. Presented at the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE ’22) journal-first track. PDF | . | Yiming Tang, Allan Spektor, Raffi Khatchadourian, and Mehdi Bagherzadeh. A Tool for Rejuvenating Feature Logging Levels via Git Histories and Degree of Interest. In International Conference on Software Engineering, ICSE ’22. Demonstrations Track. PDF | . | Yiming Tang, Allan Spektor, Raffi Khatchadourian, and Mehdi Bagherzadeh. Automated evolution of feature logging statement levels using Git histories and degree of interest. Science of Computer Programming. Presented at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER ’22) journal-first track. PDF | . | Yiming Tang, Raffi Khatchadourian, Mehdi Bagherzadeh, Rhia Singh, Ajani Stewart, and Anita Raja. An empirical study of refactorings and technical debt in Machine Learning systems. In International Conference on Software Engineering, ICSE ’21. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Baishakhi Ray. An empirical study on the use and misuse of Java 8 streams. In Fundamental Approaches to Software Engineering, FASE ’20. 🏆 EAPLS Best Paper Award. PDF | . | Raffi Khatchadourian, Yiming Tang, and Mehdi Bagherzadeh. Safe automated refactoring for intelligent parallelization of Java 8 streams. Science of Computer Programming. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Syed Ahmed. Safe automated refactoring for intelligent parallelization of Java 8 streams. In International Conference on Software Engineering, ICSE ’19. PDF | . | Raffi Khatchadourian, Yiming Tang, Mehdi Bagherzadeh, and Syed Ahmed. A tool for optimizing Java 8 stream software via automated refactoring. In International Working Conference on Source Code Analysis and Manipulation, IEEE SCAM ’18. Engineering Track. 🏆 Distinguished Paper Award. PDF | . | Yiming Tang, Raffi Khatchadourian, Mehdi Bagherzadeh, and Syed Ahmed. Towards safe refactoring for intelligent parallelization of Java 8 streams. In International Conference on Software Engineering, ICSE ’18. Poster Track. PDF | . ",
     "url": "/info/publications/",
     
     "relUrl": "/info/publications/"
@@ -133,96 +133,110 @@
     "relUrl": "/info/services/#grant-reviewer"
   },"19": {
     "doc": "Services",
+    "title": "Review Committee",
+    "content": "| ACM Transactions on Software Engineering and Methodology (TOSEM), 2025 | . ",
+    "url": "/info/services/#review-committee",
+    
+    "relUrl": "/info/services/#review-committee"
+  },"20": {
+    "doc": "Services",
+    "title": "Workshop Organizer",
+    "content": "| Workshop on Embodied and Safe-Assured Robotic Systems (in conjunction with NeurIPS 2025), 2025 | . ",
+    "url": "/info/services/#workshop-organizer",
+    
+    "relUrl": "/info/services/#workshop-organizer"
+  },"21": {
+    "doc": "Services",
     "title": "PC Chair",
     "content": "| International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2025 | . ",
     "url": "/info/services/#pc-chair",
     
     "relUrl": "/info/services/#pc-chair"
-  },"20": {
+  },"22": {
     "doc": "Services",
     "title": "Publicity Chair",
     "content": "| International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2024 | . ",
     "url": "/info/services/#publicity-chair",
     
     "relUrl": "/info/services/#publicity-chair"
-  },"21": {
+  },"23": {
     "doc": "Services",
     "title": "Sponsorship Chair",
     "content": "| The ACM International Conference on the Foundations of Software Engineering (FSE), 2025 | . ",
     "url": "/info/services/#sponsorship-chair",
     
     "relUrl": "/info/services/#sponsorship-chair"
-  },"22": {
+  },"24": {
     "doc": "Services",
     "title": "Session Chair",
     "content": "| IEEE/ACM International Conference on Automated Software Engineering (ASE) • Log and Trace; Failure and Fault, 2024 • Vulnerability and Security 2, 2024 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Log Analysis and Debugging, 2023 | . | IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Empirical Study, 2023 | . | ACM/SPEC International Conference on Performance Engineering (ICPE), Hardware Performance, 2022 | . ",
     "url": "/info/services/#session-chair",
     
     "relUrl": "/info/services/#session-chair"
-  },"23": {
+  },"25": {
     "doc": "Services",
     "title": "Judge",
     "content": "| The ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH), Student Research Competition Track, 2021 | . ",
     "url": "/info/services/#judge",
     
     "relUrl": "/info/services/#judge"
-  },"24": {
+  },"26": {
     "doc": "Services",
     "title": "Departmental/College/University Service",
     "content": "| GCCIS PhD Curriculum Committee, 2023-2026 | . | Outstanding Scholar Committee, 2024-2025 | . | GCCIS Faculty Search Committee, 2024-2025 | . | Faculty Performance Evaluation Committee, 2025 | . ",
     "url": "/info/services/#departmentalcollegeuniversity-service",
     
     "relUrl": "/info/services/#departmentalcollegeuniversity-service"
-  },"25": {
+  },"27": {
     "doc": "Services",
     "title": "External Reviewer/Subreviewer",
     "content": "| The Mining Software Repositories Conference (MSR), Technical Papers Track, 2022 | . | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering(ESEC/FSE), Demonstrations Track, 2018 | . ",
     "url": "/info/services/#external-reviewersubreviewer",
     
     "relUrl": "/info/services/#external-reviewersubreviewer"
-  },"26": {
+  },"28": {
     "doc": "Services",
     "title": "Student Volunteer",
     "content": "| ACM/IEEE International Conference on Software Engineering (ICSE), 2019 | . | PostgresConf US (PostgresConf), 2018 | . ",
     "url": "/info/services/#student-volunteer",
     
     "relUrl": "/info/services/#student-volunteer"
-  },"27": {
+  },"29": {
     "doc": "Teaching",
     "title": "Teaching",
     "content": ". ",
     "url": "/info/teaching/",
     
     "relUrl": "/info/teaching/"
-  },"28": {
+  },"30": {
     "doc": "Teaching",
     "title": "Teaching at RIT",
     "content": "| Collaborative Software Development | Spring 2025 | . | Model-Driven Development | Fall 2024 | . | Collaborative Software Development | Spring 2024 | . | Introduction to Software Engineering | Fall 2023 | . ",
     "url": "/info/teaching/#teaching-at-rit",
     
     "relUrl": "/info/teaching/#teaching-at-rit"
-  },"29": {
+  },"31": {
     "doc": "Teaching",
     "title": "Teaching at CUNY Hunter College",
     "content": "| Discrete Structures Recitation×3 | Fall 2019 | . ",
     "url": "/info/teaching/#teaching-at-cuny-hunter-college",
     
     "relUrl": "/info/teaching/#teaching-at-cuny-hunter-college"
-  },"30": {
+  },"32": {
     "doc": "Teaching",
     "title": "Teaching at Hunter College Cyber Security Summer Camp",
     "content": "| Introduction to Python (only open to female undergraduate students) | Summer 2018 | . ",
     "url": "/info/teaching/#teaching-at-hunter-college-cyber-security-summer-camp",
     
     "relUrl": "/info/teaching/#teaching-at-hunter-college-cyber-security-summer-camp"
-  },"31": {
+  },"33": {
     "doc": "Teaching",
     "title": "Grader or Teaching Assistant at CUNY Hunter College",
     "content": "| Software Design and Analysis III | Spring 2021 | . | Software Engineering | Spring 2021 | . | Computer Theory I | Fall 2020 | . | Fundamentals of Reactive Programming Seminar | Fall 2020 | . | Software Engineering/Contemporary Application Development | Spring 2020 | . | Advanced Programming Languages | Spring 2019 | . ",
     "url": "/info/teaching/#grader-or-teaching-assistant-at-cuny-hunter-college",
     
     "relUrl": "/info/teaching/#grader-or-teaching-assistant-at-cuny-hunter-college"
-  },"32": {
+  },"34": {
     "doc": "Work Experience",
     "title": "Work Experience",
     "content": ". | Jul. 2023 - present:Assistant Professor Rochester Institute of Technology, USA | . | May 2021 - Jun. 2023:Postdoctoral Research Fellow Concordia University, Canada Supervised by Prof. Weiyi Shang | . | Jan. 2019 - May 2021:Adjunct Lecturer City University of New York - Hunter College, USA | . | Aug. 2017 - May 2021:Research Assistant City University of New York - Graduate Center, USA | . | Aug. 2018:Instructor of Hunter College Cyber Security Summer Camp City University of New York - Hunter College, USA | . ",

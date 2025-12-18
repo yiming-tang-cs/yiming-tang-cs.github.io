@@ -9,6 +9,7 @@ nav_order: 2
 
 ----
 
+|Yixi Zhao, Kundi Yao, **Yiming Tang**, Weiyi Shang . An Empirical Study of Privacy Leakage Vulnerability in Third-Party Android Logs Libraries. In  *IEEE International Conference on Software Analysis, Evolution and Reengineering*, SANER ’26. To appear. |
 |Zhiyuan Chen, Vanessa Nava-Camal, Tiash Roy, Zhe Li, **Yiming Tang**, Xueling Zhang and Haibo Yang. Exploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study. *IEEE Software*. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11203817).|
 |An Chen, Kundi Yao, Haonan Zhang, **Yiming Tang**, and Weiyi Shang. An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems. In *IEEE International Conference on Software Quality, Reliability, and Security*, QRS ’25. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/QRS2025_AnChen.pdf).|
 |Ahmad D. Suleiman, **Yiming Tang**, Daqing Hou. Factors Impacting Faculty Adoption of Project-Based Learning in Computing Education: a Survey. In *Frontiers in Education Conference*, FIE ’25. [PDF](https://arxiv.org/pdf/2507.18039).|
