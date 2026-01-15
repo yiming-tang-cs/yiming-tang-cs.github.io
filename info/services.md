@@ -11,7 +11,9 @@ nav_order: 3
 
 ## Program Committee Member
 
-| IEEE International Conference on Collaborative Advances in Software and Computing (CASCON), Poster Track [2025](https://conf.researchr.org/track/cascon-2025/posters-track) |
+| The Asia-Pacific Software Engineering Conference (APSEC), Tool Demonstration Track, [2025](https://conf.researchr.org/track/apsec-2025/apsec-2025-tool-demonstration?)|
+| The International Conference on Internetware (Internetware), Research Track, [2025](https://conf.researchr.org/track/internetware-2025/internetware-2025-research-track)|
+| IEEE International Conference on Collaborative Advances in Software and Computing (CASCON), Poster Track, [2025](https://conf.researchr.org/track/cascon-2025/posters-track) |
 | The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) <br/> •  Research Papers Track, [2025](https://conf.researchr.org/track/issta-2025/issta-2025-papers) <br/> • Artifact Evaluation Track, [2022](https://conf.researchr.org/track/issta-2022/issta-2022-artifact-evaluation) |
 | ACM/SPEC International Conference on Performance Engineering (ICPE) <br/> • Research Track, [2024](https://icpe2024.spec.org/), [2025](https://icpe2025.spec.org/tracks-and-submissions/research-paper-track/), [2026](https://icpe2026.spec.org/tracks-and-submissions/research-paper-track/) <br/> • Emerging Research Track, [2024](https://icpe2024.spec.org/tracks-and-submissions/) <br/> • Data Challenge Track, [2022](https://icpe2022.spec.org/tracks-and-submissions/data-challenge-track/) |
 | International Workshop on DevOps for Sustainability (DevOpsSustain), [2025](https://devopssustain.github.io/ws2025/) |
@@ -34,13 +36,13 @@ nav_order: 3
 | ACM Transactions on Autonomous and Adaptive Systems ([TAAS](https://dl.acm.org/journal/taas)), 2024, 2025| 
 | IEEE Transactions on Software Engineering ([TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)), 2021, 2023, 2024| 
 | Empirical Software Engineering ([EMSE](https://www.springer.com/journal/10664)), 2021, 2022, 2023, 2024, 2025 | 
-| Journal of System and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), 2022, 2023 | 
+| Journal of System and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), 2022, 2023, 2024, 2025 | 
 | Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology)) 2022, 2023|
 | Journal of Parallel and Distributed Computing ([JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)), 2023| 
 
 ## Grant Reviewer
 
-|Natural Sciences and Engineering Research Council of Canada ([NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)), 2024|
+|Natural Sciences and Engineering Research Council of Canada ([NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)), 2024, 2026|
 |U.S. National Science Foundation ([NSF](https://www.nsf.gov/)), 2024, 2025|
 |Canada Foundation for Innovation ([CFI](https://www.innovation.ca/)), 2023|
 
@@ -64,6 +66,8 @@ nav_order: 3
 ## Sponsorship Chair
 
 | The ACM International Conference on the Foundations of Software Engineering ([FSE](https://conf.researchr.org/home/fse-2025)), 2025 |
+
+ <span style="font-size:12px;"> Note: I received a Certificate of Appreciation from FSE 2025 in recognition of my excellent service on the conference organization committee.</span>
 
 ## Session Chair
 
