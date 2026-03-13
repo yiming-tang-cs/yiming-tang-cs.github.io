@@ -29,7 +29,7 @@ Zhiyuan Chen
 <br>
 #### Master's 
 
-Love Jayesh Ahir <br>
+Rishi Vedkumarsingh Parmar <br>
 Vanessa Nava-Camal
 
 
@@ -38,6 +38,7 @@ Vanessa Nava-Camal
 <br>
 #### Master's 
 
+Love Jayesh Ahir <br>
 Soham Sanjay Deo <br>
 Poorna Chander Reddy Puttaparthi <br>
 Hakan Gul
