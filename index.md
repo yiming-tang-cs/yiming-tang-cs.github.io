@@ -31,14 +31,12 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
+📣 [3/2026] Paper accepted at [EASE ’26](https://conf.researchr.org/track/ease-2026/ease-2026-research-papers).   <br/><br/>
 📣 [12/2025] Paper accepted at [SANER ’26](https://conf.researchr.org/home/saner-2026).   <br/><br/>
 📣 [11/2025] I will serve on the review committee of [TOSEM](https://dl.acm.org/journal/tosem/editorial-board).   <br/><br/>
 📣 [09/2025] Paper accepted at [IEEE Software](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52).   <br/><br/>
 📣 [05/2025] Paper accepted at [QRS ’25](https://qrs25.techconf.org/).   <br/><br/>
 📣 [05/2025] Paper accepted at [FIE ’25](https://2025.fie-conference.org/). <br/><br/>
-📣 [01/2025] Paper accepted at [ICST ’25](https://conf.researchr.org/track/icst-2025/icst-2025-short-vision-emerging-results) Short Papers, Vision and Emerging Results Track.  <br/><br/>
-📣 [01/2025] I will serve as as a PC chair of [PROMISE 2025](https://conf.researchr.org/home/promise-2025)! Please feel free to contribute! <br/><br/>
-📣 [01/2025] I will serve as as a PC on the Research Papers Track of [ICSE 2026](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)! <br/>
 {: .fs-3 .ls-10 .code-example }
 
 ## Contact
