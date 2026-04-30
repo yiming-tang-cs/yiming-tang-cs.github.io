@@ -9,7 +9,7 @@ nav_order: 2
 
 ----
 
-|Zhiyuan Chen, Love Jayesh Ahir, Ahmad Suleiman, Kundi Yao, **Yiming Tang**, Weiyi Shang and Daqing Hou. Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs. In *the International Conference on Evaluation and Assessment in Software Engineering*, EASE ’26. [PDF](https://arxiv.org/pdf/2604.18552). |
+|Zhiyuan Chen, Love Jayesh Ahir, Ahmad Suleiman, Kundi Yao, **Yiming Tang**, Weiyi Shang and Daqing Hou. Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs. In *the International Conference on Evaluation and Assessment in Software Engineering*, EASE ’26. To appear. |
 |Yixi Zhao, Kundi Yao, **Yiming Tang** and Weiyi Shang. An Empirical Study of Privacy Leakage Vulnerability in Third-Party Android Logs Libraries. In  *IEEE International Conference on Software Analysis, Evolution and Reengineering*, SANER ’26. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/SANER2026_Yixi.pdf). |
 |Zhiyuan Chen, Vanessa Nava-Camal, Tiash Roy, Zhe Li, **Yiming Tang**, Xueling Zhang and Haibo Yang. Exploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study. *IEEE Software*. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11203817).|
 |An Chen, Kundi Yao, Haonan Zhang, **Yiming Tang**, and Weiyi Shang. An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems. In *IEEE International Conference on Software Quality, Reliability, and Security*, QRS ’25. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/QRS2025_AnChen.pdf).|
