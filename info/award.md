@@ -18,6 +18,7 @@ nav_order: 5
 
 ## Grants
 
+| Proposal Development Accelerator Program | PHT180, RIT| PI | 2026 |
 |CHAI Faculty Seed Grant | CHAI, RIT | co-PI | 2025 |
 |ACM SIGSOFT CAPS Grants@FSE | SIGSOFT CAPS program| $400.00 | 2023|
 |ACM SIGSOFT CAPS Grants@ICSE | SIGSOFT CAPS program | $1,000.00 | 2023 | 
