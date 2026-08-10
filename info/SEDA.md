@@ -26,11 +26,9 @@ SEDA Lab is located in the Software Engineering Department at RIT. SEDA has a fu
 
 Zhiyuan Chen
 
-<br>
-#### Master's 
+<!-- <br>
+#### Master's  -->
 
-Rishi Vedkumarsingh Parmar <br>
-Vanessa Nava-Camal
 
 
 ## Past Research Students
@@ -38,6 +36,8 @@ Vanessa Nava-Camal
 <br>
 #### Master's 
 
+Rishi Vedkumarsingh Parmar <br>
+Vanessa Nava-Camal
 Love Jayesh Ahir <br>
 Soham Sanjay Deo <br>
 Poorna Chander Reddy Puttaparthi <br>

@@ -31,6 +31,7 @@ I am looking for **self-motivated** Ph.D., Master's and undergraduate students. 
 
 ## News
 
+📣 [08/2026] I will serve as the Web Co-Chair for [ISSRE 2027](https://conf.researchr.org/home/issre-2027). <br/><br/>
 📣 [05/2026] Received the [PHT180 PDAP Stage I award](https://www.rit.edu/pht180/). <br/><br/>
 📣 [03/2026] Paper accepted at [EASE ’26](https://conf.researchr.org/track/ease-2026/ease-2026-research-papers).   <br/><br/>
 📣 [12/2025] Paper accepted at [SANER ’26](https://conf.researchr.org/home/saner-2026).   <br/><br/>
