@@ -52,6 +52,7 @@ nav_order: 3
 
 ## Workshop Organizer
 
+| Workshop on AI for Software Performance and Performance Engineering for AI Systems (in conjunction with ICSE 2027) |
 | Workshop on Embodied and Safe-Assured Robotic Systems (in conjunction with NeurIPS 2025), [2025](https://e-sars.github.io/)|
 
 ## PC Chair
