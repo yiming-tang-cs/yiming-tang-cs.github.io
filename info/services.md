@@ -18,13 +18,13 @@ nav_order: 3
 | ACM/SPEC International Conference on Performance Engineering (ICPE) <br/> • Research Track, [2024](https://icpe2024.spec.org/), [2025](https://icpe2025.spec.org/tracks-and-submissions/research-paper-track/), [2026](https://icpe2026.spec.org/tracks-and-submissions/research-paper-track/) <br/> • Emerging Research Track, [2024](https://icpe2024.spec.org/tracks-and-submissions/) <br/> • Data Challenge Track, [2022](https://icpe2022.spec.org/tracks-and-submissions/data-challenge-track/) |
 | International Workshop on DevOps for Sustainability (DevOpsSustain), [2025](https://devopssustain.github.io/ws2025/) |
 | The IEEE/ACM International Conference on Software Engineering (ICSE), Research Papers Track, [2025](https://conf.researchr.org/track/icse-2025/icse-2025-research-track), [2026](https://conf.researchr.org/track/icse-2026/icse-2026-research-track), [2027](https://conf.researchr.org/track/icse-2027/icse-2027-research-track)| 
-| IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, [2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers?), [2024](https://conf.researchr.org/track/ase-2024/ase-2024-research), [2025](https://conf.researchr.org/track/ase-2025/ase-2025-papers)| 
+| IEEE/ACM International Conference on Automated Software Engineering (ASE), Research Papers Track, [2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers?), [2024](https://conf.researchr.org/track/ase-2024/ase-2024-research), [2025](https://conf.researchr.org/track/ase-2025/ase-2025-papers), [2026](https://conf.researchr.org/track/ase-2026/ase-2026-research-track)|
 | The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Research Papers Track, [2023](https://2023.esec-fse.org/track/fse-2023-research-papers), [2026](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers), [2027](https://conf.researchr.org/track/fse-2027/fse-2027-papers)| 
 | The International Conference on Mining Software Repositories (MSR), Technical Track, [2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers), [2024](https://2024.msrconf.org/track/msr-2024-technical-papers), [2025](https://2025.msrconf.org/track/msr-2025-technical-papers), [2026](https://2026.msrconf.org/track/msr-2026-technical-papers)| 
 | The International Symposium on Empirical Software Engineering and Measurement (ESEM), Emerging Results, Vision and Reflection Papers Track, [2023](https://conf.researchr.org/track/esem-2023/esem-2023-emerging-results-vision-and-reflection-papers)| 
 | IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), Research Track, [2023](http://www.ieee-scam.org/2023/#cfpresearchtrack) |
 | The International Workshop on Load Testing and Benchmarking of Software Systems (LTB), [2023](https://ltb2023.github.io/)| 
-|IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) <br/> • Research Papers Track, [2024](https://conf.researchr.org/track/saner-2024/saner-2024-papers), [2026](https://conf.researchr.org/track/saner-2026/saner-2026-papers) <br/> • RENE Track, [2023](https://saner2023.must.edu.mo/negativerestrack)|
+|IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) <br/> • Research Papers Track, [2024](https://conf.researchr.org/track/saner-2024/saner-2024-papers), [2026](https://conf.researchr.org/track/saner-2026/saner-2026-papers), [2027](https://conf.researchr.org/track/saner-2027/saner-2027-papers) <br/> • RENE Track, [2023](https://saner2023.must.edu.mo/negativerestrack)|
 | IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft), Technical Papers Track, [2022](https://conf.researchr.org/track/mobilesoft-2022/mobilesoft-2022-technical-papers?), [2023](https://conf.researchr.org/home/mobilesoft-2023)|
 | The International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), [2021](https://promiseconf.github.io/2021/index.html), [2022](https://promiseconf.github.io/2022/index.html), [2023](https://promiseconf.github.io/2023/index.html), [2024](https://conf.researchr.org/home/promise-2024) |
 
@@ -52,7 +52,7 @@ nav_order: 3
 
 ## Workshop Organizer
 
-| Workshop on AI for Software Performance and Performance Engineering for AI Systems (in conjunction with ICSE 2027) |
+| Workshop on AI for Software Performance and Performance Engineering for AI Systems (in conjunction with ICSE 2027), 2027 |
 | Workshop on Embodied and Safe-Assured Robotic Systems (in conjunction with NeurIPS 2025), [2025](https://e-sars.github.io/)|
 
 ## PC Chair
@@ -70,9 +70,9 @@ nav_order: 3
 
  <span style="font-size:12px;"> Note: I received a Certificate of Appreciation from FSE 2025 in recognition of my excellent service on the conference organization committee.</span>
 
- ## Web Chair
+## Web Chair
 
-| International Symposium on Software Reliability Engineering ([ISSRE](https://conf.researchr.org/home/issre-2027)), 2027 |
+| International Symposium on Software Reliability Engineering([ISSRE](https://conf.researchr.org/home/issre-2027)), 2027 |
 
 ## Session Chair
 
