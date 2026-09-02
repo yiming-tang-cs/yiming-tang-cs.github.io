@@ -32,7 +32,7 @@ nav_order: 3
 
 | IEEE Software ([IEEE Softw.](https://www.computer.org/csdl/magazine/so)), 2025|
 | Computer Science Review ([Comput. Sci. Rev.](https://www.sciencedirect.com/journal/computer-science-review)), 2025|
-| ACM Transactions on Software Engineering and Methodology ([TOSEM](https://dl.acm.org/journal/tosem)), 2025|
+| ACM Transactions on Software Engineering and Methodology ([TOSEM](https://dl.acm.org/journal/tosem)), 2025, 2026|
 | ACM Transactions on Autonomous and Adaptive Systems ([TAAS](https://dl.acm.org/journal/taas)), 2024, 2025| 
 | IEEE Transactions on Software Engineering ([TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)), 2021, 2023, 2024| 
 | Empirical Software Engineering ([EMSE](https://www.springer.com/journal/10664)), 2021, 2022, 2023, 2024, 2025 | 

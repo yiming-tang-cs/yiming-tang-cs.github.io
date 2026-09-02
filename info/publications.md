@@ -9,7 +9,7 @@ nav_order: 2
 
 ----
 
-|Zhiyuan Chen, Vanessa Nava-Camal, Ahmad Suleiman, **Yiming Tang**, Daqing Hou and Weiyi Shang. An Empirical Study on the Capability of LLMs in Decomposing Bug Reports. *Science of Computer Programming*. To appear. |
+|Zhiyuan Chen, Vanessa Nava-Camal, Ahmad Suleiman, **Yiming Tang**, Daqing Hou and Weiyi Shang. An Empirical Study on the Capability of LLMs in Decomposing Bug Reports. *Science of Computer Programming*. [PDF](https://www.sciencedirect.com/science/article/pii/S016764232600122X). |
 |Zhiyuan Chen, Love Jayesh Ahir, Ahmad Suleiman, Kundi Yao, **Yiming Tang**, Weiyi Shang and Daqing Hou. Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs. In *the International Conference on Evaluation and Assessment in Software Engineering*, EASE ’26. [PDF](https://arxiv.org/html/2604.18552). |
 |Yixi Zhao, Kundi Yao, **Yiming Tang** and Weiyi Shang. An Empirical Study of Privacy Leakage Vulnerability in Third-Party Android Logs Libraries. In  *IEEE International Conference on Software Analysis, Evolution and Reengineering*, SANER ’26. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/SANER2026_Yixi.pdf). |
 |Zhiyuan Chen, Vanessa Nava-Camal, Tiash Roy, Zhe Li, **Yiming Tang**, Xueling Zhang and Haibo Yang. Exploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study. *IEEE Software*. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11203817).|
