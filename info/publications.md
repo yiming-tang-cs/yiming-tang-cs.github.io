@@ -9,14 +9,14 @@ nav_order: 2
 
 ----
 
-|Zhiyuan Chen, Vanessa Nava-Camal, Ahmad Suleiman, **Yiming Tang**, Daqing Hou and Weiyi Shang. An Empirical Study on the Capability of LLMs in Decomposing Bug Reports. *Science of Computer Programming*. [PDF](https://www.sciencedirect.com/science/article/pii/S016764232600122X). |
-|Zhiyuan Chen, Love Jayesh Ahir, Ahmad Suleiman, Kundi Yao, **Yiming Tang**, Weiyi Shang and Daqing Hou. Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs. In *the International Conference on Evaluation and Assessment in Software Engineering*, EASE ’26. [PDF](https://arxiv.org/html/2604.18552). |
+|<u>Zhiyuan Chen</u>, <u>Vanessa Nava-Camal</u>, Ahmad Suleiman, **Yiming Tang**, Daqing Hou and Weiyi Shang. An Empirical Study on the Capability of LLMs in Decomposing Bug Reports. *Science of Computer Programming*. [PDF](https://www.sciencedirect.com/science/article/pii/S016764232600122X). |
+|<u>Zhiyuan Chen</u>, <u>Love Jayesh Ahir</u>, Ahmad Suleiman, Kundi Yao, **Yiming Tang**, Weiyi Shang and Daqing Hou. Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs. In *the International Conference on Evaluation and Assessment in Software Engineering*, EASE ’26. [PDF](https://arxiv.org/html/2604.18552). |
 |Yixi Zhao, Kundi Yao, **Yiming Tang** and Weiyi Shang. An Empirical Study of Privacy Leakage Vulnerability in Third-Party Android Logs Libraries. In  *IEEE International Conference on Software Analysis, Evolution and Reengineering*, SANER ’26. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/SANER2026_Yixi.pdf). |
-|Zhiyuan Chen, Vanessa Nava-Camal, Tiash Roy, Zhe Li, **Yiming Tang**, Xueling Zhang and Haibo Yang. Exploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study. *IEEE Software*. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11203817).|
+|<u>Zhiyuan Chen</u>, <u>Vanessa Nava-Camal</u>, Tiash Roy, Zhe Li, **Yiming Tang**, Xueling Zhang and Haibo Yang. Exploring LLMs’ Potential for Privacy Leakage Detection in Android App Logs: An Empirical Study. *IEEE Software*. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11203817).|
 |An Chen, Kundi Yao, Haonan Zhang, **Yiming Tang**, and Weiyi Shang. An Empirical Study of Logging Practice in CUDA-based Deep Learning Systems. In *IEEE International Conference on Software Quality, Reliability, and Security*, QRS ’25. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/QRS2025_AnChen.pdf).|
 |Ahmad D. Suleiman, **Yiming Tang**, Daqing Hou. Factors Impacting Faculty Adoption of Project-Based Learning in Computing Education: a Survey. In *Frontiers in Education Conference*, FIE ’25. [PDF](https://arxiv.org/pdf/2507.18039).|
 |Mostafa Jangali, Kundi Yao, **Yiming Tang**, Diego Elias Costa and Weiyi Shang. Batch Execution of Microbenchmarks for Efficient Performance Testing. In *IEEE International Conference on Software Testing, Verification and Validation*, ICST ’25. Short Papers, Vision and Emerging Results Track. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/MOSTAFA_ICST_2025.pdf)|
-|Zhiyuan Chen,  Soham Sanjay Deo, Poorna Chander Reddy Puttaparthi, **Yiming Tang**,  Xueling Zhang and Weiyi Shang. From Logging to Leakage: A Study of Privacy Leakage in Android App Logs. In *IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Poster Track. [PDF](https://dl.acm.org/doi/10.1145/3691620.3695340) |
+|<u>Zhiyuan Chen</u>,  <u>ZSoham Sanjay Deo</u>, <u>ZPoorna Chander Reddy Puttaparthi</u>, **Yiming Tang**,  Xueling Zhang and Weiyi Shang. From Logging to Leakage: A Study of Privacy Leakage in Android App Logs. In *IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Poster Track. [PDF](https://dl.acm.org/doi/10.1145/3691620.3695340) |
 |Zishuo Ding, **Yiming Tang**, Xiaoyu Cheng, Heng Li and Weiyi Shang. LoGenText-Plus: Improving Neural Machine Translation-based Logging Texts Generation with Syntactic Templates. *ACM Transactions on Software Engineering and Methodology*. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/Ding_TOSEM.pdf) |
 |Jinfu Chen, Zishuo Ding, **Yiming Tang**, Mohammed Sayagh, Heng Li, Bram Adams and Weiyi Shang. IoPV: On Inconsistent Option Performance Variations. In *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering*, ESEC/FSE ’23. [PDF](https://ece.uwaterloo.ca/~wshang/pubs/FSE_2023_JINFU.pdf) |
 |Jianchen Zhao, **Yiming Tang**, Sneha Sunil and Weiyi Shang. Studying and complementing the use of identifiers in logs. In *International Conference on Software Analysis, Evolution and Reengineering*, SANER ’23. [PDF](https://users.encs.concordia.ca/~shang/pubs/SANER2023_Jianchen.pdf)| 
@@ -37,5 +37,10 @@ nav_order: 2
 
 ----
 
-|Zhiyuan Chen. Studying Privacy Leaks in Android App Logs. In *The ACM International Conference on the Foundations of Software Engineering (FSE)*, FSE ’24. Student Research Competition Track. [PDF](https://dl.acm.org/doi/10.1145/3663529.3664461) |
-|Zhiyuan Chen. A Comprehensive Study of Privacy Leakage Vulnerability in Android App Logs. In *The IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Doctoral Symposium. [PDF](https://dl.acm.org/doi/pdf/10.1145/3691620.3695609) |
+|<u>Zhiyuan Chen</u>. Studying Privacy Leaks in Android App Logs. In *The ACM International Conference on the Foundations of Software Engineering (FSE)*, FSE ’24. Student Research Competition Track. [PDF](https://dl.acm.org/doi/10.1145/3663529.3664461) |
+|<u>Zhiyuan Chen</u>. A Comprehensive Study of Privacy Leakage Vulnerability in Android App Logs. In *The IEEE/ACM International Conference on Automated Software Engineering*, ASE ’24. Doctoral Symposium. [PDF](https://dl.acm.org/doi/pdf/10.1145/3691620.3695609) |
+
+
+<small style="color: #888; font-size: 0.85em;">
+<strong>Note:</strong> My name is in <strong>bold</strong>; SEDA Lab student co-authors are <u>underlined</u>.
+</small>
