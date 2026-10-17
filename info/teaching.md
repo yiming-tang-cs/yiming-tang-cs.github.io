@@ -10,6 +10,7 @@ nav_order: 4
 
 ## Teaching at RIT
 
+| Collaborative Software Development | Fall 2026 |
 | Collaborative Software Development | Spring 2026 |
 | Model-Driven Development| Fall 2025 |
 | Collaborative Software Development | Spring 2025 |

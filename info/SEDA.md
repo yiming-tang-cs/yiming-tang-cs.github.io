@@ -36,9 +36,12 @@ Zhiyuan Chen
 <br>
 #### Master's 
 
-Rishi Vedkumarsingh Parmar <br>
-Vanessa Nava-Camal
-Love Jayesh Ahir <br>
-Soham Sanjay Deo <br>
-Poorna Chander Reddy Puttaparthi <br>
-Hakan Gul
+##### Graduate Research Assistants
+
+| Viren Vinay Rajhauns | Rishi Vedkumarsingh Parma | Vanessa Nava-Camal |
+ Love Jayesh Ahir | Soham Sanjay Deo | Poorna Chander Reddy Puttaparthi | 
+ Hakan Gul | 
+
+##### Master's Thesis Students
+
+| Collin Cleary | Coray Bennett | Ivan Rojas |

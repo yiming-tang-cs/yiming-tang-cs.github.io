@@ -36,7 +36,7 @@ nav_order: 3
 | ACM Transactions on Autonomous and Adaptive Systems ([TAAS](https://dl.acm.org/journal/taas)), 2024, 2025| 
 | IEEE Transactions on Software Engineering ([TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)), 2021, 2023, 2024| 
 | Empirical Software Engineering ([EMSE](https://www.springer.com/journal/10664)), 2021, 2022, 2023, 2024, 2025 | 
-| Journal of System and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), 2022, 2023, 2024, 2025 | 
+| Journal of System and Software ([JSS](https://www.sciencedirect.com/journal/journal-of-systems-and-software)), 2022, 2023, 2024, 2025, 2026 | 
 | Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology)) 2022, 2023|
 | Journal of Parallel and Distributed Computing ([JPDC](https://www.sciencedirect.com/journal/journal-of-parallel-and-distributed-computing)), 2023| 
 
